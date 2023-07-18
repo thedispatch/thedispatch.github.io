@@ -1,0 +1,185 @@
+{
+  "uuid": "f963fa84-e71c-4740-80b2-b006cbec4cae",
+  "version": "0.1",
+  "sources": [
+    {
+      "id": "6LcGrLnzYuU",
+      "url": "https://www.youtube.com/watch?v=6LcGrLnzYuU",
+      "site": "youtube"
+    }
+  ],
+  "components": [
+    {
+      "source_url": "https://www.youtube.com/watch?v=6LcGrLnzYuU",
+      "type": "transcript",
+      "content": [
+        {
+          "text": "On the 19th of June the oceangate submersible\nbegan its descent to the Titanic\u2019s fractured remains here, in the north western atlantic. With a descent rate of 55 metres per minute\nit would take the submersible 70 minutes to reach its destination. With each passing minute the equivalent of\n5.3 atmospheres of pressure would be added to the subs hull. By the time it reached its target depth the\nweight of 366 of earth\u2019s atmospheres would",
+          "start": 0.59,
+          "duration": 28.71
+        },
+        {
+          "text": "be attempting to crush it. Applied to just an area a little larger than\nan A3 piece of paper, that\u2019s equivalent to the thrust of a Saturn V F1 engine. Pressing in from all directions. An hour and 45 minutes into the dive. At the bottom of the Ocean. 3800 metres down.",
+          "start": 29.3,
+          "duration": 18.53
+        },
+        {
+          "text": "With this immense pressure bearing down on\nits hull. The oceangate submersible lost contact with\nthe surface. We now know the submersible imploded, a sudden\ncatastrophic collapse. A tragic accident, however any composite material\nengineer could have predicted this failure, and they did. I worked as a composite design engineer and\ncompleted my master\u2019s thesis in composite failure prediction.",
+          "start": 47.83,
+          "duration": 24.77
+        },
+        {
+          "text": "So, let\u2019s dive into the questionable engineering\ndecisions that Oceangate made that led to a tragic accident. With that pressure comes some extreme design\nchallenges. Oceangate\u2019s Titan submersible consists of\ntwo titanium end caps, one with a large acrylic window, joined to a filament wound carbon\nfiber reinforced epoxy hull. [REF] Inside the submersible is pretty barebone.",
+          "start": 72.6,
+          "duration": 24.62
+        },
+        {
+          "text": "Some screens that are fed data from cameras\nfrom the outside. The four electric thrusters are controlled\nwith, from what I can tell, a third party gamecube controller. Many people are focusing on this part of the\ndesign, but that\u2019s the least of my concerns. We will be focusing on one design aspect of\nthis submersible, the composite hull. Carbon fibre composites aren\u2019t really known\nfor their compressive strength. They work best in tension.",
+          "start": 97.22,
+          "duration": 26.62
+        },
+        {
+          "text": "Great for airplanes that are pressurised from\nthe inside. Where the pressure inside the fuselage works\nto expand the circular cross section, putting the fibres in tension. For a submarine, the pressure will work to\ncompress the hull, placing the fibres primarily under compression. This immediately set off alarm bells in my\nmind when I heard of the missing submarine, so I began digging into their justification\nfor using the material.",
+          "start": 123.84,
+          "duration": 25.27
+        },
+        {
+          "text": "Oceangate chose this carbon fibre composite\nprimarily to benefit from its natural buoyancy. These types of subs actually want to be as\nclose to neutrally buoyant as possible. Meaning the weight of water they displace\nweighs about the same as the vehicle itself. Minimising the energy needed to rise or sink\nin the water. This means to surface in an emergency they\ndon\u2019t need power, they just drop ballasts that make them positively buoyant and they\njust float to the surface. The carbon fibre composite can be lighter\nand thus helps achieve this neutral buoyancy",
+          "start": 149.11,
+          "duration": 31.28
+        },
+        {
+          "text": "target. Typically submarine hulls are made from steel\nor more recently titanium, but in order to achieve the desired buoyancy they need foam\nouter layers. OceanGates CEO Stockton Rush, who was inside\nthe submersible stated that they wanted to skip this foam layer because it added to costs. That isn\u2019t necessarily an evil thing if\nthe composite is up for the job. This is where things get iffy, oceangate had\nno idea whether it was up to the task or not,",
+          "start": 180.39,
+          "duration": 30.03
+        },
+        {
+          "text": "and we know this because they admit in their\nown blog post justifying their decision to not test their vehicle with a regulatory body. [REF]. The now removed blog entry read: Most major marine operators require that chartered\nvessels are \u201cclassed\u201d by an independent group\nClassing assures ship owners, insurers, and regulators that vessels are designed, constructed\nand inspected to accepted standards.",
+          "start": 210.42,
+          "duration": 25.06
+        },
+        {
+          "text": "Classing may be effective at filtering out\nunsatisfactory designers and builders, but the established standards do little to weed\nout subpar vessel operators The vast majority of marine (and aviation) accidents are a result\nof operator error, not mechanical failure. As a result, simply focusing on classing the\nvessel does not address the operational risks. Now, I would have thought this wouldn\u2019t\nneed pointing out, but the fact this glaring red flag has been written on their own website\nfor everyone to see, and several extremely wealthy and successful people didn\u2019t seem\nto think it was an issue seems to suggest",
+          "start": 235.48,
+          "duration": 35.28
+        },
+        {
+          "text": "otherwise. Perhaps most submarine failures occur due\nto operator error precisely because they have undergone rigorous testing and certification. The comparison to aviation is also just a\nwild can of worms that we have very recent catastrophic accidents to compare to, where\nmanufacturers willfully circumvented regulatory procedures. These aren\u2019t procedures created as some\nkind of unnecessary inconvenience to inventors.",
+          "start": 270.76,
+          "duration": 25.45
+        },
+        {
+          "text": "They are very useful guidelines and testing\nprocedures to prove you have not missed some catastrophic failure mode in your design,\nand that\u2019s exactly what happened. One failure mode is unique to composite materials\nin deep sea applications. Some of the first evidence we got for it was\nglass fibre reinforced deep sea piping. It\u2019s called snap buckling, or delamination\ncoupled buckling failure mode. For thin walled pressure vessels the failure\nmode is simply buckling, where the pressure simply caves the entire wall in, but here,\nbecause the wall thickness is so large to",
+          "start": 296.21,
+          "duration": 33.68
+        },
+        {
+          "text": "deal with the immense pressure of the deep\nsea the failure mode gets more complicated. This failure mode is characterised by delamination\nof the internal layer of the pressure vessel, basically the inside of the pressure vessel\nsuddenly peels away from the rest of the wall, leading to catastrophic failure of the overall\nstructure. The exact mechanisms of the failure mode are\nnot entirely well understood, as stated in this 2022 research paper titled \u201cA Review\non Structural Failure of Composite Pressure Hulls in Deep Sea\u201d.",
+          "start": 329.89,
+          "duration": 30.87
+        },
+        {
+          "text": "[REF] It states, in its conclusion \u201cinvestigations on this subject have remained\nat theoretical level. There is still very little research in this\narea in recent years.\u201d So, I am assuming whoever engineered this\npressure vessel did at least the same level of research as a YouTuber who wrote a script\non the subject in two days. They must have at least been aware of this\nproblem. A failure mode like this is going to be exacerbated\nby gradual damage incurred through cyclical",
+          "start": 360.76,
+          "duration": 28.92
+        },
+        {
+          "text": "stresses, like those experienced when diving\nto the depths of 4000 metres and resurfacing again. They have done that at least 50 times with\nthis vessel, without ever fatigue testing it. Per their own admission they did not undergo\nindustry standard classifications, but they did do their own classification test. One test, stated on that blog post once again.",
+          "start": 389.68,
+          "duration": 22.25
+        },
+        {
+          "text": "\u201cA licensed marine surveyor will witness\na successful dive to 4000 metres, inspect the vessel before and after the dive, and\nprovide a Statement of Fact attesting to the completion of the dive test plan.\u201d That is simply not adequate. Anything undergoing repeated stress cycles\nlike this needs to be fatigue tested. Like the test airplane manufacturers do on\nwings where they flex the plane's wings thousands of times on the ground.",
+          "start": 411.93,
+          "duration": 27.2
+        },
+        {
+          "text": "They designed this thing essentially with\ncomputer modelling with no real world testing. Composite materials are incredibly difficult\nto model in computer software. Composite materials are far more complicated\nthan homogeneous materials like steel, where the material properties are the same in all\ndirections and in all regions of the material. Composites are composed of fibre bound together\nby a matrix material like epoxy. If we were to zoom into a small cross section\nof this, we may see something like this. Some fibres, some of them could be touching\nwithout any matrix between them, some could",
+          "start": 439.13,
+          "duration": 34.14
+        },
+        {
+          "text": "be spaced further apart, and there can also\nbe empty voids that the epoxy didn\u2019t manage to fill. We can simulate a small section like this\nindependently to help analyse some failure modes, such as delamination. However if we want to zoom out and test a\nlarger section we often need to average the material properties in some way or else the\nsimulation will take too long to run. My own master thesis tried to combine the\ntwo by embedding a fibre and matrix cell within",
+          "start": 473.27,
+          "duration": 27.51
+        },
+        {
+          "text": "an averaged composite material. There are specialised softwares that can model\ndifferent fibre orientations, but they are still very much an estimation. You need to back this up with physical testing. Something OceanGate didn\u2019t do. There are more signs of incompetent use of\ncomposites. For a critical structure like this, I would\nvery much recommend curing it in an autoclave.",
+          "start": 500.78,
+          "duration": 22.619
+        },
+        {
+          "text": "That\u2019s basically a pressurised oven that\nhelps push those voids I mentioned earlier out of the epoxy resin. Autoclaves are expensive, and can be difficult\nto find ones large enough to fit something like this, but it\u2019s nice to not have air\nbubbles in a pressure vessel keeping you alive. However, it wasn\u2019t used for this pressure\nvessel. It was simply bagged and cured, a cheaper\nalternative. Spencer Composites was commissioned to make\nthe composite hull and their CEO was interviewed",
+          "start": 523.399,
+          "duration": 29.321
+        },
+        {
+          "text": "back in 2017 in a compositesworld article. He seems very aware of the immense design\nchallenge he was handed, and he does mention that the porosity of the cured pressure vessel\nwas assessed to be less than <1%. \u201cLess than 1% voids\u201d doesn\u2019t exactly\ninspire confidence. Is it 0.99% or 0.0001% porosity? That\u2019s exactly the type of defect that\u2019s\ngoing to increase the risk of snap buckling as voids can be propagation sites for delamination.",
+          "start": 552.72,
+          "duration": 31.6
+        },
+        {
+          "text": "The blog post goes on to dismiss classification\ntests as unsuitable for innovative designs, which is just complete narcissistic nonsense. This isn\u2019t innovative. They have just made the pressure vessel from\na carbon fibre composite, using known manufacturing practices, and started charging rich people\n250,000 dollars to risk their lives in it. Innovation would be creating that pressure\nvessel and testing it. Figuring out the causes of snap buckling and\nadvancing material science for all mankind.",
+          "start": 584.32,
+          "duration": 29.9
+        },
+        {
+          "text": "This is profiteering, not innovation. To eliminate all doubt that this company has\nwillfully ignored standard safety practices. This court case from 2018 was brought against\noceangate by a former employee who was fired shortly after raising concerns about the composite\nhull. Stating not enough was done to check for delaminations\nand voids. Oceangate argued that the technology to check\nfor voids and delaminations in a composite this thick did not exist, and instead they\nwould use their acoustic monitoring system,",
+          "start": 614.22,
+          "duration": 33.109
+        },
+        {
+          "text": "which essentially listens for the sounds of\nfracture to predict failure. But this is what a carbon fibre composite\nfracture curve looks like. It\u2019s a cliff edge. Sudden catastrophic collapse. An acoustic monitoring system like this is\nakin to setting up a camera to warn you thunder is coming. You will see the lighting before the thunder,\nbut the time between them is minimal.",
+          "start": 647.329,
+          "duration": 22.081
+        },
+        {
+          "text": "Pure safety theatre. It gets even worse. On one test dive in the Bahamas, a submersible\nexpert could hear the cracking with his own ears and warned Stockton Rush that it was\na sign of damage accumulating. Stockton, once again, chose to ignore an expert's\nadvice. So this acoustic monitoring system was purely\nfor marketing purposes. To give customers, who don\u2019t have the engineering\nbackground to see through it, a false sense",
+          "start": 669.41,
+          "duration": 25.94
+        },
+        {
+          "text": "of security. I would attribute this to malice and greed,\nbut Stockton Rush chose to pilot this death trap himself. As the Hanlon\u2019s Razor goes:\nNever attribute to malice that which can be attributed to stupidity. There is this growing trend in engineering\nof moving fast and breaking stuff. Mostly driven by one overconfident CEO who\nhas, to be fair to him, succeeded in revolutionising",
+          "start": 695.35,
+          "duration": 24.77
+        },
+        {
+          "text": "an entire industry with that ethos. That incriminating blog post even mentions\nSpaceX, Blue Origin and Virgin Galactic as bastions of innovation for this move fast\nand break things mantra. Virgin Galactic too have blood on their hands,\nwith their 2014 in-flight break up, which was attributed to inadequate design safeguards\nand poor pilot training, along with a lack of oversight from regulatory authorities. This attitude is dangerous, and this won\u2019t\nbe the last story of wealthy narcissistic",
+          "start": 720.12,
+          "duration": 30.6
+        },
+        {
+          "text": "CEO\u2019s putting lives at risk. When a doctor is negligent to the safety of\ntheir patients, they are liable for malpractice, but the impact their incompetence has affects\none patient, when an engineer neglects their responsibilities it can affect hundreds, thousands,\nmaybe even millions of people. We need more people like David Lockridge,\nthe employee who was fired for raising concerns over safety. The very first video on this channel stated\nour mission.",
+          "start": 750.72,
+          "duration": 27.63
+        },
+        {
+          "text": "To inspire the next generation of engineers,\nbut it\u2019s more than just inspiring engineers, we need engineers going into the most impactful\nindustries. To solve the largest problems facing our civilization. You\u2019ve probably heard a lot of career advice:\n\u2018follow your passion\u2019, \u2018do what you love\u2019, \u2018take the initiative\u2019, etc. etc. But a lot of the advice out there doesn\u2019t\ntake into account the best available evidence we have for what actually makes for a high\nimpact and fulfilling career.",
+          "start": 778.35,
+          "duration": 28.31
+        },
+        {
+          "text": "Today's sponsor, 80,000 Hours is a nonprofit\nthat, for the last ten years, has been researching the question of how you can find a fulfilling\ncareer that does good, too. Everything they publish is based on careful\nconsideration of the data, consultation with experts, and taking into account the best\nevidence they could find on the topic. And because they take this evidence-based\napproach, they are able to make concrete recommendations on hard questions like:\nWhere should I work if I actually want to make a positive difference in the world?",
+          "start": 806.66,
+          "duration": 31.95
+        },
+        {
+          "text": "What are the most pressing problems facing\nhumanity today, and how might we solve them? What can I do today to start planning a fulfilling\ncareer? They have published over 30 articles on one\nincredible pressing issue, safety in the development of AI. They have a website with tons of collected\nresearch on high-impact careers, a job board which lists currently open roles they think\nmight help you have a positive impact, and a podcast where they have conversations with\nexperts about the world\u2019s most pressing",
+          "start": 838.61,
+          "duration": 30.839
+        },
+        {
+          "text": "problems. Everything they provide is free, forever,\nbecause they\u2019re a nonprofit - their only aim is to help solve global problems by helping\npeople find the most impactful careers they can. If you join the newsletter now, you\u2019ll get\na free copy of their in-depth research-led career guide sent to your inbox - just sign\nup at 80000hours.org/realengineering, or click the button on screen now",
+          "start": 869.449,
+          "duration": 25.431
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=6LcGrLnzYuU",
+      "type": "generated",
+      "content": "Oceangate's YouTube video titled \"The Tragic Accident of the Oceangate Submersible\" (https://www.youtube.com/watch?v=6LcGrLnzYuU) has sparked a heated debate about the engineering decisions that led to the submersible's catastrophic collapse. The video, which has garnered over a million views since its release, provides a detailed analysis of the design flaws that ultimately caused the submersible to implode during its descent to the Titanic's remains in the North Atlantic.\n\nThe video begins by highlighting the immense pressure that the submersible faced as it descended to the ocean floor. With a descent rate of 55 meters per minute, the submersible would take 70 minutes to reach its destination. During this time, the equivalent of 5.3 atmospheres of pressure would be added to the sub's hull, resulting in a total weight of 366 Earth atmospheres pressing in from all directions.\n\nAt the bottom of the ocean, 3,800 meters down, the submersible lost contact with the surface. It was later revealed that the submersible had imploded due to a sudden collapse caused by the immense pressure. The video argues that this tragic accident could have been predicted by any composite material engineer, as carbon fiber composites are not known for their compressive strength.\n\nThe video delves into the design challenges faced by Oceangate's Titan submersible, which consisted of two titanium end caps and a filament-wound carbon fiber reinforced epoxy hull. While carbon fiber composites are excellent for tension, they are not ideal for compression, which is the primary force exerted on a submarine's hull. This raised concerns about the submersible's ability to withstand the pressure at extreme depths.\n\nOne of the main reasons Oceangate chose to use a carbon fiber composite for the hull was to achieve neutral buoyancy. Submarines like the Titan aim to displace water that weighs as much as the vehicle itself, minimizing the energy required to rise or sink in the water. The lightweight nature of carbon fiber composites helped Oceangate achieve this goal, but it also posed significant risks.\n\nTypically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy. However, Oceangate decided to skip the foam layer to cut costs. This decision, coupled with the use of a carbon fiber composite hull, raised serious doubts about the submersible's structural integrity.\n\nThe video highlights Oceangate's admission that they did not test their vehicle with a regulatory body. This omission is significant because most major marine operators require vessels to be \"classed\" by an independent group to ensure they meet accepted standards. By forgoing this testing, Oceangate neglected to address operational risks and potential mechanical failures.\n\nSnap buckling, a failure mode unique to composite materials in deep-sea applications, is another concern raised in the video. This failure mode is characterized by delamination of the internal layer of the pressure vessel, leading to catastrophic failure. While there is limited research on this subject, it is clear that cyclical stresses, such as those experienced during repeated dives, can exacerbate this failure mode.\n\nThe video criticizes Oceangate for not subjecting the submersible to fatigue testing, despite undergoing multiple dives to extreme depths. Fatigue testing is crucial for identifying potential failure modes and ensuring the structural integrity of a vessel. Oceangate's reliance on a single classification test conducted by a licensed marine surveyor is deemed inadequate by the video's narrator.\n\nFurthermore, the video questions Oceangate's use of an acoustic monitoring system to detect delaminations and voids in the composite hull. The narrator argues that this system is akin to setting up a camera to warn of approaching thunder without addressing the underlying structural issues. The video suggests that Oceangate's use of this system was primarily for marketing purposes, creating a false sense of security for customers.\n\nThe video concludes by emphasizing the importance of responsible engineering practices and the need for engineers to prioritize safety in high-impact industries. It criticizes the trend of moving fast and breaking things, citing examples from the aerospace industry, such as SpaceX and Virgin Galactic, where inadequate design safeguards and poor oversight led to catastrophic accidents.\n\nIn light of the Oceangate submersible's tragic accident, the video calls for greater accountability and adherence to safety standards in engineering. It urges engineers to tackle the world's most pressing problems while prioritizing the well-being and safety of those affected by their work.\n\nTo watch the full video and gain a deeper understanding of the engineering flaws that led to the Oceangate submersible's collapse, visit https://www.youtube.com/watch?v=6LcGrLnzYuU."
+    }
+  ],
+  "filename": "1689643268-youtube-6LcGrLnzYuU"
+}
