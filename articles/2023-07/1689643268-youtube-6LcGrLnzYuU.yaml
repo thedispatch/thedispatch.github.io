@@ -217,12 +217,12 @@
           "start": 891
         },
         {
-          "fact": "The lightweight nature of carbon fiber composites helped Oceangate achieve this goal, but it also posed significant risks.",
+          "fact": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "The lightweight nature of carbon fiber composites helped Oceangate achieve this goal, but it also posed significant risks.",
-          "start": 1979
+          "link_text": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy.",
+          "start": 2103
         }
       ]
     }
