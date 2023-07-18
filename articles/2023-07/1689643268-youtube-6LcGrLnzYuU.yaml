@@ -186,48 +186,48 @@
       "content": [
         {
           "fact": "The video, which has garnered over a million views since its release, provides a detailed analysis of the design flaws that ultimately caused the submersible to implode during its descent to the Titanic's remains in the North Atlantic.",
-          "check": true,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=329.89",
-          "source_text": "deal with the immense pressure of the deep\nsea the failure mode gets more complicated. This failure mode is characterised by delamination\nof the internal layer of the pressure vessel, basically the inside of the pressure vessel\nsuddenly peels away from the rest of the wall, leading to catastrophic failure of the overall\nstructure. The exact mechanisms of the failure mode are\nnot entirely well understood, as stated in this 2022 research paper titled \u201cA Review\non Structural Failure of Composite Pressure Hulls in Deep Sea\u201d.",
-          "source_start": 329.89,
+          "check": null,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
           "match_text": "The video, which has garnered over a million views since its release, provides a detailed analysis of the design flaws that ultimately caused the submersible to implode during its descent to the Titanic's remains in the North Atlantic.",
           "match_start": 243
         },
         {
           "fact": "With a descent rate of 55 meters per minute, the submersible would take 70 minutes to reach its destination.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=0.59",
-          "source_text": "With a descent rate of 55 metres per minute it would take the submersible 70 minutes to reach its destination",
-          "source_start": 0.59,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
           "match_text": "With a descent rate of 55 meters per minute, the submersible would take 70 minutes to reach its destination.",
           "match_start": 597
         },
         {
           "fact": "During this time, the equivalent of 5.3 atmospheres of pressure would be added to the sub's hull, resulting in a total weight of 366 Earth atmospheres pressing in from all directions.",
-          "check": true,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=149.11",
-          "source_text": "Oceangate chose this carbon fibre composite\nprimarily to benefit from its natural buoyancy. These types of subs actually want to be as\nclose to neutrally buoyant as possible. Meaning the weight of water they displace\nweighs about the same as the vehicle itself. Minimising the energy needed to rise or sink\nin the water. This means to surface in an emergency they\ndon\u2019t need power, they just drop ballasts that make them positively buoyant and they\njust float to the surface. The carbon fibre composite can be lighter\nand thus helps achieve this neutral buoyancy",
-          "source_start": 149.11,
+          "check": null,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
           "match_text": "During this time, the equivalent of 5.3 atmospheres of pressure would be added to the sub's hull, resulting in a total weight of 366 Earth atmospheres pressing in from all directions.",
           "match_start": 706
         },
         {
           "fact": "At the bottom of the ocean, 3,800 meters down, the submersible lost contact with the surface.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=38.565",
-          "source_text": "At the bottom of the Ocean. 3800 metres down. With this immense pressure bearing down on its hull. The oceangate submersible lost contact with the surface",
-          "source_start": 38.565,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
           "match_text": "At the bottom of the ocean, 3,800 meters down, the submersible lost contact with the surface.",
           "match_start": 891
         },
         {
-          "fact": "The lightweight nature of carbon fiber composites helped Oceangate achieve this goal, but it also posed significant risks.",
+          "fact": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=110.53",
-          "source_text": "Carbon fibre composites aren\u2019t really known for their compressive strength. They work best in tension. Great for airplanes that are pressurised from the inside. Where the pressure inside the fuselage works to expand the circular cross section, putting the fibres in tension. For a submarine, the pressure will work to compress the hull, placing the fibres primarily under compression.",
-          "source_start": 110.53,
-          "match_text": "The lightweight nature of carbon fiber composites helped Oceangate achieve this goal, but it also posed significant risks.",
-          "match_start": 1979
+          "source": null,
+          "source_text": "",
+          "source_start": "",
+          "match_text": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy.",
+          "match_start": 2103
         }
       ]
     },
