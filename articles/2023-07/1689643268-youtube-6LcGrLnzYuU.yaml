@@ -201,6 +201,14 @@
           "start": 597
         },
         {
+          "fact": "During this time, the equivalent of 5.3 atmospheres of pressure would be added to the sub's hull, resulting in a total weight of 366 Earth atmospheres pressing in from all directions.",
+          "check": null,
+          "source": null,
+          "match": "",
+          "link_text": "During this time, the equivalent of 5.3 atmospheres of pressure would be added to the sub's hull, resulting in a total weight of 366 Earth atmospheres pressing in from all directions.",
+          "start": 706
+        },
+        {
           "fact": "At the bottom of the ocean, 3,800 meters down, the submersible lost contact with the surface.",
           "check": null,
           "source": null,
@@ -209,20 +217,12 @@
           "start": 891
         },
         {
-          "fact": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy.",
+          "fact": "The lightweight nature of carbon fiber composites helped Oceangate achieve this goal, but it also posed significant risks.",
           "check": null,
           "source": null,
           "match": "",
-          "link_text": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy.",
-          "start": 2103
-        },
-        {
-          "fact": "The video highlights Oceangate's admission that they did not test their vehicle with a regulatory body.",
-          "check": null,
-          "source": null,
-          "match": "",
-          "link_text": "The video highlights Oceangate's admission that they did not test their vehicle with a regulatory body.",
-          "start": 2422
+          "link_text": "The lightweight nature of carbon fiber composites helped Oceangate achieve this goal, but it also posed significant risks.",
+          "start": 1979
         }
       ]
     }
