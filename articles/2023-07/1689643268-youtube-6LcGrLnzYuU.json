@@ -187,51 +187,92 @@
         {
           "fact": "The video, which has garnered over a million views since its release, provides a detailed analysis of the design flaws that ultimately caused the submersible to implode during its descent to the Titanic's remains in the North Atlantic.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=47.83",
-          "source_text": "We now know the submersible imploded, a sudden catastrophic collapse",
-          "source_start": 47.83,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
           "match_text": "The video, which has garnered over a million views since its release, provides a detailed analysis of the design flaws that ultimately caused the submersible to implode during its descent to the Titanic's remains in the North Atlantic.",
-          "match_start": 243,
-          "source_index": 816
+          "match_start": 243
         },
         {
           "fact": "With a descent rate of 55 meters per minute, the submersible would take 70 minutes to reach its destination.",
-          "check": true,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=47.83",
-          "source_text": "With this immense pressure bearing down on\nits hull. The oceangate submersible lost contact with\nthe surface. We now know the submersible imploded, a sudden\ncatastrophic collapse. A tragic accident, however any composite material\nengineer could have predicted this failure, and they did. I worked as a composite design engineer and\ncompleted my master\u2019s thesis in composite failure prediction.",
-          "source_start": 47.83,
+          "check": null,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
           "match_text": "With a descent rate of 55 meters per minute, the submersible would take 70 minutes to reach its destination.",
           "match_start": 597
         },
         {
           "fact": "During this time, the equivalent of 5.3 atmospheres of pressure would be added to the sub's hull, resulting in a total weight of 366 Earth atmospheres pressing in from all directions.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=14.945",
-          "source_text": "the equivalent of 5.3 atmospheres of pressure would be added to the sub's hull.",
-          "source_start": 14.945,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
           "match_text": "During this time, the equivalent of 5.3 atmospheres of pressure would be added to the sub's hull, resulting in a total weight of 366 Earth atmospheres pressing in from all directions.",
-          "match_start": 706,
-          "source_index": 272
+          "match_start": 706
         },
         {
-          "fact": "At the bottom of the ocean, 3,800 meters down, the submersible lost contact with the surface.",
+          "fact": "At the bottom of the ocean, 3,800 meters down, the submersible lost contact with the surface. It was later revealed that the submersible had imploded due to a sudden collapse caused by the immense pressure.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=38.565",
-          "source_text": "At the bottom of the Ocean. 3800 metres down. With this immense pressure bearing down on its hull. The oceangate submersible lost contact with the surface",
-          "source_start": 38.565,
-          "match_text": "At the bottom of the ocean, 3,800 meters down, the submersible lost contact with the surface.",
-          "match_start": 891,
-          "source_index": 660
+          "source": null,
+          "source_text": "",
+          "source_start": "",
+          "match_text": "At the bottom of the ocean, 3,800 meters down, the submersible lost contact with the surface. It was later revealed that the submersible had imploded due to a sudden collapse caused by the immense pressure.",
+          "match_start": 891
         },
         {
-          "fact": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy.",
+          "fact": "While carbon fiber composites are excellent for tension, they are not ideal for compression, which is the primary force exerted on a submarine's hull.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=6LcGrLnzYuU#t=180.39",
-          "source_text": "Typically submarine hulls are made from steel or more recently titanium, but in order to achieve the desired buoyancy they need foam outer layers.",
-          "source_start": 180.39,
-          "match_text": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy.",
-          "match_start": 2103,
-          "source_index": 2928
+          "source": null,
+          "source_text": "",
+          "source_start": "",
+          "match_text": "While carbon fiber composites are excellent for tension, they are not ideal for compression, which is the primary force exerted on a submarine's hull.",
+          "match_start": 1459
+        },
+        {
+          "fact": "One of the main reasons Oceangate chose to use a carbon fiber composite for the hull was to achieve neutral buoyancy.",
+          "check": null,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
+          "match_text": "One of the main reasons Oceangate chose to use a carbon fiber composite for the hull was to achieve neutral buoyancy.",
+          "match_start": 1709
+        },
+        {
+          "fact": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy. However, Oceangate decided to skip the foam layer to cut costs.",
+          "check": null,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
+          "match_text": "Typically, submarine hulls are made from steel or titanium, with foam outer layers to achieve the desired buoyancy. However, Oceangate decided to skip the foam layer to cut costs.",
+          "match_start": 2103
+        },
+        {
+          "fact": "The video highlights Oceangate's admission that they did not test their vehicle with a regulatory body.",
+          "check": null,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
+          "match_text": "The video highlights Oceangate's admission that they did not test their vehicle with a regulatory body.",
+          "match_start": 2422
+        },
+        {
+          "fact": "Snap buckling, a failure mode unique to composite materials in deep-sea applications, is another concern raised in the video.",
+          "check": null,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
+          "match_text": "Snap buckling, a failure mode unique to composite materials in deep-sea applications, is another concern raised in the video.",
+          "match_start": 2798
+        },
+        {
+          "fact": "The video questions Oceangate's use of an acoustic monitoring system to detect delaminations and voids in the composite hull.",
+          "check": null,
+          "source": null,
+          "source_text": "",
+          "source_start": "",
+          "match_text": "video questions Oceangate's use of an acoustic monitoring system to detect delaminations and voids in the composite hull. The",
+          "match_start": 3637
         }
       ]
     },
