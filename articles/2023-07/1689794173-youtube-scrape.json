@@ -1,0 +1,140 @@
+{
+  "uuid": "225130e7-f721-4f85-90ba-714baa50fd3b",
+  "version": "0.1",
+  "sources": [
+    {
+      "id": "CupQDkGZ4lw",
+      "url": "https://www.youtube.com/watch?v=CupQDkGZ4lw",
+      "site": "youtube"
+    },
+    {
+      "id": "news_canada_british-columbia_bc-wildfire-july-18-1.6909596",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-wildfire-july-18-1.6909596",
+      "site": "scrape"
+    }
+  ],
+  "components": [
+    {
+      "source_url": "https://www.youtube.com/watch?v=CupQDkGZ4lw",
+      "type": "transcript",
+      "content": [
+        {
+          "text": "Well, this morning, New Yorkers are once again being urged to prepare for smoke from the wildfires burning in western Canada. Air quality health advisories are being issued",
+          "start": 0.9,
+          "duration": 8.109
+        },
+        {
+          "text": "for the entire state as winds are expected to carry a smoky haze to the northeast yet again this week. Now comes as Canada is experiencing its worst fire season on record.",
+          "start": 9.009,
+          "duration": 9.742
+        },
+        {
+          "text": "About 25 million acres have burned so far this year. They've come all the way from America's southwest Well, welcome to Quebec now here in northern Quebec's scorched land.",
+          "start": 19.085,
+          "duration": 13.248
+        },
+        {
+          "text": "Joining hundreds of other American and international firefighters doing what they can to slow wildfires that just won't quit. At this point, we're just trying to secure the edge and make sure",
+          "start": 35.769,
+          "duration": 13.112
+        },
+        {
+          "text": "that the communities are safe. The Silver State Hotshot crew is looking for hotspots. They are firefighting crews, specially trained and skilled, now taking on Canada's record breaking wildfires.",
+          "start": 49.082,
+          "duration": 13.713
+        },
+        {
+          "text": "I know here from Montana, Big Sky Country, but this is a big fire, big territory. And the scope for us in the states, this would be one of the largest fires ever to occur and in the United States. So, yeah, it's a gig of fire.",
+          "start": 63.363,
+          "duration": 13.513
+        },
+        {
+          "text": "The total area burned in Canada already has shattered records now. 10 million hectares. That's almost 25 million acres, an area nearly as large as the state of Ohio. And still burning. And when they burn like this,",
+          "start": 77.644,
+          "duration": 14.547
+        },
+        {
+          "text": "there's no way to even put people in front of it to even stop the fire. There's no amount of resources on the ground or from the sky. That's going to be able to stop one of these fires when they",
+          "start": 92.792,
+          "duration": 8.942
+        },
+        {
+          "text": "when they get the momentum. As shocking and frankly, unsettling as it is, this fire is just far too large to extinguish. In fact, the area already burned",
+          "start": 101.734,
+          "duration": 10.044
+        },
+        {
+          "text": "is larger than most countries on the planet. It means that not only does the fire burn, but there is going to be a lot of smoke. And that means many American cities could be shrouded in",
+          "start": 112.412,
+          "duration": 11.078
+        },
+        {
+          "text": "smoke on any given day for weeks or months to come. Don't be surprised if if it continues. And secondly, this is this is a problem that is going to go on into the future",
+          "start": 124.724,
+          "duration": 11.411
+        },
+        {
+          "text": "when it's the year to burn. And the conditions are right. It's just going to continue to burn. Here in Quebec, many were evacuated within minutes as the flames threaten towns and fires burned with raging speed.",
+          "start": 136.402,
+          "duration": 13.047
+        },
+        {
+          "text": "American Jimmy Seaborn is grateful to see American help. He says he had minutes to leave in June and was upset to leave behind the family pets. They were fine when he returned six days later,",
+          "start": 149.983,
+          "duration": 11.478
+        },
+        {
+          "text": "but he fears his home will be threatened again to inquire about normal weights. Incredible. But it's not normal. Not once. No, no, no, no. He says it's not normal, but cautions",
+          "start": 161.728,
+          "duration": 12.112
+        },
+        {
+          "text": "we should all learn to expect the worst from the weather now. The rain helps. It has finally arrived in some places. But in the words of one Canadian official, it's like a drop in an otherwise",
+          "start": 174.24,
+          "duration": 10.979
+        },
+        {
+          "text": "empty bucket. The mayor of this town, Sugar Mill, says the rain is an answered prayer. She may not have to evacuate her town again, but they have to adapt.",
+          "start": 185.552,
+          "duration": 9.442
+        },
+        {
+          "text": "She says no one imagined so much would burn so quickly. Were you scared? I strangely, I wasn't scared. I was mad. And then I have to come down and say, I know you have a job to do.",
+          "start": 194.994,
+          "duration": 12.38
+        },
+        {
+          "text": "And that's why, you know, I say stay calm. And I said to my people, let's be patient. Let's do it and keep it Zen. It may be difficult to stay calm as Mother Nature rages.",
+          "start": 208.575,
+          "duration": 12.245
+        },
+        {
+          "text": "The cliche applies here in every way possible. Canada is burning and it's not out of the woods yet. You know what's so incredible to think of? There are fires burning right",
+          "start": 222.088,
+          "duration": 12.279
+        },
+        {
+          "text": "through this country from one end to the other. And to that end, the Canadian government called in the Canadian military, this time in Canada's West, to help deal with those wildfires.",
+          "start": 235.501,
+          "duration": 10.678
+        },
+        {
+          "text": "You cannot put too fine a point on it, Abbie and Phil, we are little more than halfway through the fire season. So have a look at those air quality indexes. We will be watching them for",
+          "start": 246.179,
+          "duration": 9.843
+        },
+        {
+          "text": "weeks, maybe months to come. No end in sight. Paula Newton reporting thank you.",
+          "start": 256.022,
+          "duration": 3.837
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=CupQDkGZ4lw",
+      "type": "generated",
+      "content": "New Yorkers Urged to Prepare for Smoke from Canadian Wildfires\n\nNew York City residents are once again being advised to prepare for smoke from the wildfires that continue to burn in western Canada. Air quality health advisories have been issued for the entire state as winds are expected to carry a smoky haze to the northeast this week. Canada is currently experiencing its worst fire season on record, with about 25 million acres already burned this year.\n\nFirefighters from around the world, including the Silver State Hotshot crew from Montana, have joined hundreds of American and international firefighters in northern Quebec to combat the relentless wildfires. These specially trained and skilled crews are doing their best to secure the edge of the fires and ensure the safety of nearby communities.\n\nThe scale of the wildfires in Canada is staggering, with a total area burned of 10 million hectares, equivalent to almost 25 million acres. This area is nearly as large as the state of Ohio and larger than most countries on the planet. The fires have become too large to extinguish, and the only result is an abundance of smoke. This means that many American cities could be shrouded in smoke for weeks or even months to come.\n\nWhile some areas have received much-needed rain, it is described as a mere drop in an otherwise empty bucket. The mayor of Sugar Mill, a town threatened by the fires, expresses gratitude for the rain but emphasizes the need to adapt to these new weather patterns. The Canadian government has even called in the military to assist in dealing with the wildfires.\n\nAs the fire season continues, there is no end in sight for the smoke and destruction caused by the Canadian wildfires. Residents are urged to stay informed about air quality indexes and be prepared for the worst. The resilience and determination of firefighters and affected communities are evident as they face this ongoing challenge.\n\nSources:\n- Video: https://www.youtube.com/watch?v=CupQDkGZ4lw\n- Transcript: Paula Newton reporting."
+    }
+  ],
+  "filename": "1689794173-youtube-scrape"
+}
