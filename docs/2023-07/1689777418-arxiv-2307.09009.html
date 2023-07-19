@@ -1,7 +1,82 @@
-<HTML><TITLE>The Dispatch</TITLE><BODY><p>How is ChatGPT's behavior changing over time?</p>
+
+<HTML>
+<TITLE>The Dispatch</TITLE>
+<STYLE>
+.b-tab {
+  padding: 20px;
+  border: 1px solid #000;
+  display: none;
+}
+
+.b-tab.active {
+  display: block;
+}
+
+.b-nav-tab {
+  display: inline-block;
+  padding: 20px;
+}
+
+.b-nav-tab.active {
+  color: #ff4200;
+}
+</STYLE>
+<BODY>
+
+<a href="#orange" data-tab="orange" class="b-nav-tab active">
+  Orange
+</a>
+<a href="#green" data-tab="green" class="b-nav-tab">
+  Green
+</a>
+<a href="#blue" data-tab="blue" class="b-nav-tab">
+  Blue
+</a>
+<div id="orange" class="b-tab active">
+  Orange tab content
+</div>
+<div id="green" class="b-tab">
+  Green tab content
+</div>
+<div id="blue" class="b-tab">
+  <p>How is ChatGPT's behavior changing over time?</p>
 <p>By Lingjiao Chen, Matei Zaharia, James Zou</p>
 <p>A new research paper titled "How is ChatGPT's behavior changing over time?" explores the evolution of two widely used large language models (LLMs), GPT-3.5 and GPT-4. <a href="https://arxiv.org/abs/2307.09009#t=180">Authored by Lingjiao Chen, Matei Zaharia, and James Zou, the paper delves into the opaque nature of updates made to these models over time.</a> <a href="None">The authors evaluate the March 2023 and June 2023 versions of GPT-3.5 and GPT-4 across four diverse tasks: solving math problems, answering sensitive/dangerous questions, generating code, and visual reasoning.</a></p>
 <p>The researchers discovered that both GPT-3.5 and GPT-4 exhibit significant variations in performance and behavior over time. For instance, <a href="https://arxiv.org/abs/2307.09009#t=558">GPT-4 (March 2023) displayed an impressive accuracy of 97.6% when identifying prime numbers.</a> <a href="https://arxiv.org/abs/2307.09009">However, GPT-4's performance on the same task dropped drastically to a mere 2.4% accuracy in June 2023.</a> Interestingly, GPT-3.5 (June 2023) outperformed its March 2023 counterpart in this particular task.</p>
 <p>Another noteworthy finding was that GPT-4 became less willing to answer sensitive questions in June compared to March. Additionally, both GPT-4 and GPT-3.5 exhibited more formatting mistakes in code generation in June than in March. These observations highlight the dynamic nature of LLM behavior and the necessity for continuous monitoring of their quality.</p>
 <p><a href="https://arxiv.org/abs/2307.09009">The researchers emphasize the importance of understanding how LLMs evolve over time, as their behavior can change significantly within a relatively short period.</a> By shedding light on the fluctuations in performance and behavior of GPT-3.5 and GPT-4, this study underscores the need for ongoing scrutiny of LLMs to ensure their reliability and effectiveness.</p>
-<p><a href="https://arxiv.org/abs/2307.09009#t=1932">The full research paper can be accessed at: [link to the paper on arXiv](https://arxiv.org/abs/2307.09009).</a></p></BODY></HTML>
+<p><a href="https://arxiv.org/abs/2307.09009#t=1932">The full research paper can be accessed at: [link to the paper on arXiv](https://arxiv.org/abs/2307.09009).</a></p>
+</div>
+
+</BODY>
+<SCRIPT>
+function Tabs() {
+  var bindAll = function() {
+    var menuElements = document.querySelectorAll('[data-tab]');
+    for(var i = 0; i < menuElements.length ; i++) {
+      menuElements[i].addEventListener('click', change, false);
+    }
+  }
+
+  var clear = function() {
+    var menuElements = document.querySelectorAll('[data-tab]');
+    for(var i = 0; i < menuElements.length ; i++) {
+      menuElements[i].classList.remove('active');
+      var id = menuElements[i].getAttribute('data-tab');
+      document.getElementById(id).classList.remove('active');
+    }
+  }
+
+  var change = function(e) {
+    clear();
+    e.target.classList.add('active');
+    var id = e.currentTarget.getAttribute('data-tab');
+    document.getElementById(id).classList.add('active');
+  }
+
+  bindAll();
+}
+
+var connectTabs = new Tabs();
+</SCRIPT>
+</HTML>
