@@ -114,6 +114,11 @@
           "match_start": 319
         }
       ]
+    },
+    {
+      "source_url": "",
+      "type": "annotated",
+      "content": "How is ChatGPT's behavior changing over time?\n\nBy Lingjiao Chen, Matei Zaharia, James Zou\n\nA new research paper titled \"How is ChatGPT's behavior changing over time?\" explores the evolution of two widely used large language models (LLMs), GPT-3.5 and GPT-4. [Authored by Lingjiao Chen, Matei Zaharia, and James Zou, the paper delves into the opaque nature of updates made to these models over time.](https://arxiv.org/abs/2307.09009#t=180) [The authors evaluate the March 2023 and June 2023 versions of GPT-3.5 and GPT-4 across four diverse tasks: solving math problems, answering sensitive/dangerous questions, generating code, and visual reasoning.](None)\n\nThe researchers discovered that both GPT-3.5 and GPT-4 exhibit significant variations in performance and behavior over time. For instance, [GPT-4 (March 2023) displayed an impressive accuracy of 97.6% when identifying prime numbers.](https://arxiv.org/abs/2307.09009#t=558) [However, GPT-4's performance on the same task dropped drastically to a mere 2.4% accuracy in June 2023.](https://arxiv.org/abs/2307.09009) Interestingly, GPT-3.5 (June 2023) outperformed its March 2023 counterpart in this particular task.\n\nAnother noteworthy finding was that GPT-4 became less willing to answer sensitive questions in June compared to March. Additionally, both GPT-4 and GPT-3.5 exhibited more formatting mistakes in code generation in June than in March. These observations highlight the dynamic nature of LLM behavior and the necessity for continuous monitoring of their quality.\n\n[The researchers emphasize the importance of understanding how LLMs evolve over time, as their behavior can change significantly within a relatively short period.](https://arxiv.org/abs/2307.09009) By shedding light on the fluctuations in performance and behavior of GPT-3.5 and GPT-4, this study underscores the need for ongoing scrutiny of LLMs to ensure their reliability and effectiveness.\n\n[The full research paper can be accessed at: [link to the paper on arXiv](https://arxiv.org/abs/2307.09009).](https://arxiv.org/abs/2307.09009#t=1932)"
     }
   ],
   "filename": "1689777418-arxiv-2307.09009"
