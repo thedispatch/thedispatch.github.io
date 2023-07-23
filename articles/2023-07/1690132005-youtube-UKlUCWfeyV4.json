@@ -394,6 +394,11 @@
       "source_url": "https://www.youtube.com/watch?v=UKlUCWfeyV4",
       "type": "generated",
       "content": "- The speaker is Jared Kaplan, the leader of the team at Anthropics that built the AI assistant Claude.\n- There are two trends driving AI progress: exponential increase in compute power and algorithmic progress.\n- Anthropics focuses on making AI systems more durable, reliable, and safe.\n- The speaker discusses the history of AI systems, including the development of GPT1, GPT2, and GPT3.\n- Scaling laws explain why increasing investments in AI are worthwhile.\n- Safety work is necessary to ensure AI systems behave well and don't produce unreliable or offensive output.\n- Anthropics uses constitutional AI, which allows the AI system to train itself based on a set of principles.\n- Claude has various use cases, including search, content generation, summarization, and coding assistance.\n- Partnerships, such as with Notion and Robin AI, have been formed to deploy Claude at a larger scale.\n- New features of Claude include a larger context window and reduced latency."
+    },
+    {
+      "source_url": "",
+      "type": "generated",
+      "content": "\"Riding the AI Revolution: Anthropics' Claude and the Pursuit of Reliable, Safe Artificial Intelligence\" by The Dispatch."
     }
   ],
   "filename": "1690132005-youtube-UKlUCWfeyV4"
