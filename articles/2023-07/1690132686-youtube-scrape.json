@@ -399,6 +399,16 @@
       "source_url": "https://www.youtube.com/watch?v=UKlUCWfeyV4",
       "type": "generated",
       "content": "- The speaker is Jared Kaplan, the leader of the team at anthropic that built the AI assistant Claude.\n- The team focuses on making AI systems more durable, reliable, and safe.\n- The progress in AI systems is driven by exponential trends in compute power and algorithmic progress.\n- The speaker discusses the scaling laws in AI and the increasing trend in AI capabilities.\n- The need for safety work in AI systems is emphasized, as systems can make mistakes and behave undesirably.\n- Constitutional AI is introduced as a method to train AI systems using a list of principles instead of human feedback.\n- Use cases of Claude include search, content generation, summarization, coding assistance, and legal workflows.\n- Notion and Robin AI are mentioned as partners using Claude for their platforms.\n- New features of Claude include a larger context window and reduced latency in generating samples."
+    },
+    {
+      "source_url": "https://www.lesswrong.com/posts/QGaioedKBJE39YJeD/continuous-adversarial-quality-assurance-extending-rlhf-and",
+      "type": "scrape",
+      "content": "   403 Forbidden  "
+    },
+    {
+      "source_url": "https://www.lesswrong.com/posts/QGaioedKBJE39YJeD/continuous-adversarial-quality-assurance-extending-rlhf-and",
+      "type": "generated",
+      "content": "- The web page has a 403 Forbidden error, indicating that the user does not have permission to access the content.\n- The URL of the web page is https://www.lesswrong.com/posts/QGaioedKBJE39YJeD/continuous-adversarial-quality-assurance-extending-rlhf-and."
     }
   ],
   "filename": "1690132686-youtube-scrape"
