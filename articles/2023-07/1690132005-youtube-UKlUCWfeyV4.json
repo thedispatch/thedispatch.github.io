@@ -1,0 +1,400 @@
+{
+  "uuid": "1f811b4b-31f8-4e3a-8f9c-ab230ddb21ac",
+  "version": "0.1",
+  "sources": [
+    {
+      "id": "UKlUCWfeyV4",
+      "url": "https://www.youtube.com/watch?v=UKlUCWfeyV4",
+      "site": "youtube"
+    }
+  ],
+  "components": [
+    {
+      "source_url": "https://www.youtube.com/watch?v=UKlUCWfeyV4",
+      "type": "transcript",
+      "content": [
+        {
+          "text": "contributions include research on scaling laws in machine learning gpt3 codex and more recently AI safety work such as rlhf for help helpful and harmless language assistance and constitutional AI welcome to the stage Jared Kaplan",
+          "start": 0.0,
+          "duration": 34.9
+        },
+        {
+          "text": "thank you so much it's really fun to be here so uh to shorten all of that up I'm the leader of the team at anthropic that built our AI assistant Claude that hopefully you may have seen may have played with and hopefully many more",
+          "start": 22.199,
+          "duration": 27.241
+        },
+        {
+          "text": "people will be playing with soon so I'll be talking a little bit about the trends that we see driving AI progress and why we expect it to to continue and to get even more exciting maybe maybe a little bit scary so there are sort of two things that you",
+          "start": 40.559,
+          "duration": 39.58
+        },
+        {
+          "text": "need to continue to make progress in AI systems there is a exponential Trend in using more compute power to make AI systems better and there's a similar Trend in algorithmic progress we're making these systems more and more efficient and that's really driving what",
+          "start": 59.219,
+          "duration": 37.86
+        },
+        {
+          "text": "you see that's possible this year that wasn't possible a couple years ago and why I think the the sort of future is very interesting um the other thing that you need for these systems for these generative AI systems is that you don't want them to",
+          "start": 78.96,
+          "duration": 25.32
+        },
+        {
+          "text": "just spew garbage you don't want them to hallucinate so you need some kind of steerability or reliability or safety work to ensure that these systems behave well and so anthropic really aims to keep building some of the most powerful Frontier AI systems in the world while",
+          "start": 91.32,
+          "duration": 38.521
+        },
+        {
+          "text": "focusing a lot of our research effort really maybe the majority on making these systems more durable reliable and and safe and we really think that AI as as probably most people believe since you're here is going to permeate the economy and grow in importance over the",
+          "start": 110.88,
+          "duration": 34.62
+        },
+        {
+          "text": "next few years so uh who are we and maybe I'll actually give you a slightly longer history lesson since we're at the Computer History Museum so uh the folks at anthropic including Dario our CEO um were in some sense the team that",
+          "start": 128.34,
+          "duration": 34.58
+        },
+        {
+          "text": "built gpt3 and you can see the original gpt3 paper um Dario was the director of the project um the lead Engineers uh now run engineering at anthropic um but it's sort of interesting to ask since we're here where did these systems",
+          "start": 145.5,
+          "duration": 29.499
+        },
+        {
+          "text": "actually come from this is gpt3 um what about gpt1 and gpd2 and so um I think the uh the the interesting person who is on this paper but but not not Highland as much as Alec Radford who still at open AI built the original gpt-1 model",
+          "start": 159.84,
+          "duration": 36.179
+        },
+        {
+          "text": "um what then happened was that Dario had the intuition from seeing a lot of AI systems that had been trained um that scaling the system up further would be very interesting and so that conviction which uh didn't bear fruit immediately led to gpd2 gpd2 is an",
+          "start": 177.959,
+          "duration": 41.341
+        },
+        {
+          "text": "interesting system but uh it seems like it was on track to be amazing from where we stand now but actually when gpd2 was released Google released a paper I think within a year calling it sort of antiquated defunct technology they said that these language models weren't",
+          "start": 198.72,
+          "duration": 33.06
+        },
+        {
+          "text": "really going anywhere they had better things um and Dario really had the conviction that was bolstered by the research that that many of us did that exposed these exponential trends that this was even if gpt1 wasn't commercially valuable even",
+          "start": 215.819,
+          "duration": 32.761
+        },
+        {
+          "text": "if gpt2 was impressive but but not ready yet that we were on some Trend scaling towards uh towards much more useful powerful systems and um and so uh this is sort of the real world evidence for for these Trends so uh if you look at the amount of",
+          "start": 231.42,
+          "duration": 41.7
+        },
+        {
+          "text": "computation that was being used and still is being used in the AI field it's really really growing exponentially um and an interesting thing that I observe I mean I'm not a chemist by any but but I took chemistry in high school and you",
+          "start": 252.42,
+          "duration": 33.9
+        },
+        {
+          "text": "might remember there's this number called Avogadro's number that's an immense number it's like 6 times 10 to the 23 it's like a billion billion billion and I always thought well chemistry is really weird we have this giant number these numbers are not",
+          "start": 270.06,
+          "duration": 33.24
+        },
+        {
+          "text": "useful in any other place and now we're at a point after sort of 70 years of computer science where we can train models with more than of Avogadro's number of floating Point operations so these models like sort of GPT 3 gpd4 Etc are trained using something like 10 to",
+          "start": 286.38,
+          "duration": 35.88
+        },
+        {
+          "text": "the 24 floating Point operations it's a tremendous tremendous amount of computation that sort of human civilization is able to put together to train these systems and this is the trend but I think everyone in this audience probably knows that this is",
+          "start": 303.9,
+          "duration": 24.72
+        },
+        {
+          "text": "really expensive um training these larger and larger systems costs more and more and more money um even with uh with advances in in computer chips so why did Dario um and and why do we continue to have the conviction that this is where things",
+          "start": 316.86,
+          "duration": 30.72
+        },
+        {
+          "text": "are heading even though these systems are are so so big so expensive and that comes from scaling laws which were sort of a quite precise scientific discovery we made a few years ago first with language models literally with gpt1 and gpd2 and then we",
+          "start": 332.28,
+          "duration": 41.4
+        },
+        {
+          "text": "investigated generative AI across the spectrum of modes multimodal systems systems asked to solve math problem systems asked to generate images all the same way there's this sort of grand unification that's occurred at AI where we can use the same kinds of systems",
+          "start": 352.38,
+          "duration": 33.02
+        },
+        {
+          "text": "with different kinds of data and get strong results regardless and so what all of these rainbow plots show is that there's this increasing Trend where models are becoming more and more capable they're fitting their data better and better and better as you",
+          "start": 368.66,
+          "duration": 27.64
+        },
+        {
+          "text": "scale up the amount of compute data and and model size that you use to train them and So based on these scaling Trends which you can see on these plots range over sort of a factor of a billion in in scale from tiny amounts of computation to estimates of computation",
+          "start": 382.62,
+          "duration": 32.28
+        },
+        {
+          "text": "because of these scaling laws we thought we'll make a bet we'll train a model for maybe order 10 million dollars and see what it can do and that's that's what led us to build gpd3 um and that's I think what's what's sort of powering generative AI uh these days",
+          "start": 399.24,
+          "duration": 32.94
+        },
+        {
+          "text": "and so to sort of look at the the explosion and AI capabilities uh on a different axis over time there was sort of this early era of AI systems that were trained to do very specific restrictive tasks like playing a single board game and early researchers would",
+          "start": 415.56,
+          "duration": 38.16
+        },
+        {
+          "text": "try to train these systems to maybe generalize to other kinds of games can you can you play Space Invaders and also play Pong but the results weren't very good all of these systems were trained to just do sort of one specific thing to classify images",
+          "start": 435.06,
+          "duration": 28.5
+        },
+        {
+          "text": "um Etc and then um around 2018-2019 we started to get these generative AI systems the early language models that are able to actually do more General type of types of tasks gpd1 and gpd2 and then in the last couple of",
+          "start": 449.28,
+          "duration": 36.66
+        },
+        {
+          "text": "years these systems have finally become sort of useful for something um at first they were they were useful for say autocomplete for code they weren't very good chat Bots and then very very rapidly in the last couple of years we've gone from systems that are",
+          "start": 467.28,
+          "duration": 29.219
+        },
+        {
+          "text": "not very smart and not very general to systems that can do as well as high school students on most academic subjects maybe as well as college students they can translate between languages they can exhibit complex behaviors like adapting themselves to",
+          "start": 481.8,
+          "duration": 31.561
+        },
+        {
+          "text": "users in undesirable ways we call the sycophancy I'll talk in a bit about the fact that these systems can improve themselves by thinking out loud and by training themselves these systems can play complex games involving deception so",
+          "start": 497.34,
+          "duration": 29.219
+        },
+        {
+          "text": "this is really blossomed and I think the sort of key the key drivers here are scaling up compute and also as more and more researchers get excited about this field there's been really rapid algorithmic progress that makes these systems more efficient and makes it even",
+          "start": 512.039,
+          "duration": 37.38
+        },
+        {
+          "text": "better as an investment to to build state-of-the-art Ai and really the algorithmic progress has been faster than than even I expected um now uh that explains how these systems are becoming more General and more powerful",
+          "start": 531.0,
+          "duration": 37.92
+        },
+        {
+          "text": "um but why uh why do we need safety work why do we need steerability Etc and uh and this is something uh this is something that we've we've all we've all encountered um even when we try to make these systems sort of do what we want",
+          "start": 549.36,
+          "duration": 28.92
+        },
+        {
+          "text": "um things are moving so quickly that researchers make mistakes and and and models that we deploy uh make mistakes and I think these are sort of cherry-picked examples um but there are these problems where systems uh can be tricked into saying",
+          "start": 564.66,
+          "duration": 29.281
+        },
+        {
+          "text": "offensive things or they hallucinate and don't give you reliable factual information and when uh uh when we survey customers at anthropic the number one thing that people would like to see improve about these AI systems is to be more honest to be more factually",
+          "start": 578.82,
+          "duration": 38.16
+        },
+        {
+          "text": "accurate to not hallucinate to be able to be trusted and that's that's that's why we're so focused on on these questions and we are making rapid progress in this area it's something anthropic and many others are very focused on",
+          "start": 598.26,
+          "duration": 27.42
+        },
+        {
+          "text": "um but with the uh extreme speed of development of the technology it's it's still hard to keep up so this is sort of a timeline of some work from Folks at anthropic and others on uh controlling steering um and better understanding these models",
+          "start": 611.94,
+          "duration": 34.199
+        },
+        {
+          "text": "so um early on uh in ancient days in 2016 there was this paper by by Dario and others on uh trying to make concrete the problem of how are we going to control AI systems um and then there was sort of this this",
+          "start": 629.459,
+          "duration": 33.301
+        },
+        {
+          "text": "steady progress reinforcement learning from Human preferences was first developed about five years ago that's what's heavily used in Claude and chat GPT there was simultaneously progress in interpreting how these systems work feature visualization and understanding",
+          "start": 645.72,
+          "duration": 36.0
+        },
+        {
+          "text": "the neural circuits in neural networks that uh that cause them to behave in in one way versus another there was these developments of scaling laws that I mentioned that explain why increasing Investments are worthwhile and why they're probably",
+          "start": 663.6,
+          "duration": 32.04
+        },
+        {
+          "text": "going to continue um and more recently we developed Claude and constitutional AI that I'll talk about in a minute um so what is constitutional AI well this is uh this is a single slide about a complex subject but uh to explain how",
+          "start": 679.98,
+          "duration": 38.46
+        },
+        {
+          "text": "constitutionally it works I'll go back to how do how do we use human in the loop or human preferences to control AI systems so the basic way we do that is very simple we have these generative AI models you can sample from them and they'll",
+          "start": 699.18,
+          "duration": 30.839
+        },
+        {
+          "text": "they'll they'll say anything so you have these systems sample two possible responses to some query and you have humans evaluate which response is better and then we just train the systems to reinforce the behaviors that are desirable and",
+          "start": 714.24,
+          "duration": 38.641
+        },
+        {
+          "text": "avoid the behaviors that are undesirable so it's simply we have a pair of responses for models and we go in the ratchet direction of good behavior we disincentivize the bad behavior and with tens hundreds of thousands of human conversations we can train AI systems",
+          "start": 733.74,
+          "duration": 36.119
+        },
+        {
+          "text": "even better so what is constitutional Ai and how does it differ from that process with constitutional AI we can make the principles AI systems follow transparent we can share them with the world we can iterate much much more quickly",
+          "start": 751.079,
+          "duration": 33.781
+        },
+        {
+          "text": "because we don't need humans in the loop at all and we can work to improve future AI systems at at sort of a faster faster clip so the idea of constitutional AI is is really really simple",
+          "start": 768.54,
+          "duration": 34.56
+        },
+        {
+          "text": "once you understand this idea of human in the loop preference training instead of asking people say crowd workers what behavior from an AI do you prefer we ask the AI itself",
+          "start": 785.88,
+          "duration": 33.839
+        },
+        {
+          "text": "according to a list of principles this constitution what Behavior would be better and so we replace human in the loop training human feedback with AI self-evaluation based on the constitutional principles and so that",
+          "start": 802.74,
+          "duration": 32.281
+        },
+        {
+          "text": "allows the AI system to effectively train itself which means that you can you can iterate you can train a new AI with a new list of principles in a day rather than having to wait months to talk to crowd workers tell them what to do and and collect more more and more",
+          "start": 819.18,
+          "duration": 26.939
+        },
+        {
+          "text": "interaction and furthermore it works as well or or better for steering AI systems away from harmful Tendencies um as as human feedback so this plot from one of our scientific papers all it's really showing is that there's this burrito Improvement in how helpful and",
+          "start": 832.2,
+          "duration": 42.36
+        },
+        {
+          "text": "harmless which means inoffensive um non-toxic non-racist Etc the the model is there's normally a trade-off where if you tell AI systems don't help people rob a bank they become less helpful generally in constitutional AI helps us to to improve there",
+          "start": 853.32,
+          "duration": 35.821
+        },
+        {
+          "text": "um so that is how we train Claude we train Claude with a mixture of constitutional AI and human feedback for from from domain experts in order to improve its utility say for software Engineers or lawyers or or other other potential customers",
+          "start": 871.44,
+          "duration": 36.959
+        },
+        {
+          "text": "because of course experts know best what they actually want the AI system to do so we blend those things together and that's how we we train Claude um and we're finding a number of use cases we just uh we just started testing Claude with customers back in uh in",
+          "start": 889.98,
+          "duration": 33.42
+        },
+        {
+          "text": "January and February we've just launched and we already have a lot of different use cases so of course uh plod can be used for uh for search for Content generation for summarization um for productivity um it could be used as a coding",
+          "start": 906.779,
+          "duration": 32.28
+        },
+        {
+          "text": "assistant you can debug code there are all these different use cases which just sort of uh are are kind of the norm in in generative Ai and in order to reach more uh more customers and really quickly Ensure",
+          "start": 922.74,
+          "duration": 33.181
+        },
+        {
+          "text": "privacy and uh safety of customer data we're partnering with Amazon on Amazon Bedrock to uh to deploy Claude at even even greater scale um so I'll show you a couple of use cases and a couple of uh a couple of videos so",
+          "start": 938.82,
+          "duration": 37.418
+        },
+        {
+          "text": "um if you've used notion notion is integrated AI uh notion was a very early mover in integrating AI onto their platform and there's all sorts of different features that uh Claude is being used for within",
+          "start": 960.24,
+          "duration": 32.459
+        },
+        {
+          "text": "notion to write to summarize Etc so this is just this is just an example um and notion's a really exciting partner for for us because they iterate really really quickly um whenever people on my team are",
+          "start": 975.779,
+          "duration": 25.799
+        },
+        {
+          "text": "frustrated that Claude can't do something I tell them well don't tell customers that can't do that because in two months it will be able to do that and Notions moving really really fast as well and so it's really exciting to iterate with them to to add more",
+          "start": 989.339,
+          "duration": 26.162
+        },
+        {
+          "text": "features and I hope there will there will be more to come soon um another example of like maybe our earliest customer um is Robin AI who has a legal workflow to make lawyers much more productive and this is obviously an area where uh",
+          "start": 1002.48,
+          "duration": 32.999
+        },
+        {
+          "text": "there's a lot of value lawyers time is valuable and so if you can make them more productive that's helpful um actually we've had pushback from lawyers that they don't want this technology anyway because they bill by the hour and they're afraid they",
+          "start": 1018.5,
+          "duration": 25.98
+        },
+        {
+          "text": "literally ask us if it's only going to take us 10 minutes to write this contract like what do we tell our customers what's going to happen but that that's that's the problem for lawyers um so Robin AI uses Claude to basically",
+          "start": 1031.699,
+          "duration": 27.599
+        },
+        {
+          "text": "instantaneously edit long contracts to make them more favorable to one party or the other so uh if you uh I mean if you've if you've if you've worked with lawyers you know that there's a lot of details and legal language that you can change to make things uh safer for you",
+          "start": 1044.959,
+          "duration": 36.601
+        },
+        {
+          "text": "in court and this is sort of an example of Claude following Robert ai's instructions to uh to make make contracts that uh the party they're advocating for will will prefer um and uh oh good we solved that problem so this",
+          "start": 1063.98,
+          "duration": 37.341
+        },
+        {
+          "text": "is a video it's going by a little bit fast so maybe we can do it we can do it twice um this is a video of a new feature that we just released and I think many people are interested um",
+          "start": 1082.16,
+          "duration": 28.078
+        },
+        {
+          "text": "so something something you may know if you've been paying close attention to generative Ai and generative AI language models is that language models have a context window unlike us they don't remember forever they only remember for some uh uh finite number of words that",
+          "start": 1099.74,
+          "duration": 32.698
+        },
+        {
+          "text": "they've recently seen and the earliest language models maybe only remembered a few hundred words um that was that was the limit um so uh that number has expanded over time the early versions of Claude had about a 6 000 word or nine thousand",
+          "start": 1116.179,
+          "duration": 31.502
+        },
+        {
+          "text": "token context um and we felt like many customers were reviewing this as a problem you'd like to be able to give Claude a whole book or a giant document or your financial report and and have have it answer questions or or write a summary and so",
+          "start": 1132.02,
+          "duration": 32.46
+        },
+        {
+          "text": "we've uh with our new newest release of Claude we've introduced see we've introduced a hundred thousand token context window so that basically you can fit a document the size of The Great Gatsby entirely in claude's context so what this video is showing is",
+          "start": 1147.44,
+          "duration": 34.601
+        },
+        {
+          "text": "that Claude doesn't know anything about langche and maybe most of you in the audience do Lang chain is this great uh great platform for combining different language models together to do complex tasks Claude doesn't know about Lang chain but if you give Claude the",
+          "start": 1169.16,
+          "duration": 27.78
+        },
+        {
+          "text": "entirety of Lang Chain's documentation Claude can then write and explain code to use Lang chain with uh with Claude so you can give these entire entire manuals of how to use a new API and ask Claude to help um so the final video is just about",
+          "start": 1182.96,
+          "duration": 34.319
+        },
+        {
+          "text": "speed um so one thing that we've tried to do in making quad as useful as possible is reduce latency um no one really likes waiting for language models to generate samples",
+          "start": 1200.299,
+          "duration": 36.02
+        },
+        {
+          "text": "word by word and uh and and so this is just a comparison I mean there are a lot of language models out there there are a lot of different performance characteristics but Claude instant samples about almost 500 characters a second so that really for for a lot of",
+          "start": 1216.039,
+          "duration": 30.641
+        },
+        {
+          "text": "use cases where latency is important where you need to get an answer quickly um this is something that that we've really we've really optimized and we hope it's it's useful for for all of our customers um great",
+          "start": 1233.6,
+          "duration": 25.898
+        },
+        {
+          "text": "that's it",
+          "start": 1247.7,
+          "duration": 2.479
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=UKlUCWfeyV4",
+      "type": "generated",
+      "content": "- The speaker is Jared Kaplan, the leader of the team at Anthropics that built the AI assistant Claude.\n- There are two trends driving AI progress: exponential increase in compute power and algorithmic progress.\n- Anthropics focuses on making AI systems more durable, reliable, and safe.\n- The speaker discusses the history of AI systems, including the development of GPT1, GPT2, and GPT3.\n- Scaling laws explain why increasing investments in AI are worthwhile.\n- Safety work is necessary to ensure AI systems behave well and don't produce unreliable or offensive output.\n- Anthropics uses constitutional AI, which allows the AI system to train itself based on a set of principles.\n- Claude has various use cases, including search, content generation, summarization, and coding assistance.\n- Partnerships, such as with Notion and Robin AI, have been formed to deploy Claude at a larger scale.\n- New features of Claude include a larger context window and reduced latency."
+    }
+  ],
+  "filename": "1690132005-youtube-UKlUCWfeyV4"
+}
