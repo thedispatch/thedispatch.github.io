@@ -1,0 +1,86 @@
+
+<HTML>
+<TITLE>The Dispatch</TITLE>
+<STYLE>
+.b-tab {
+  padding: 20px;
+  border: 1px solid #000;
+  display: none;
+}
+
+.b-tab.active {
+  display: block;
+}
+
+.b-nav-tab {
+  display: inline-block;
+  padding: 20px;
+}
+
+.b-nav-tab.active {
+  color: #ff4200;
+}
+</STYLE>
+<BODY>
+
+<a href="#orange" data-tab="orange" class="b-nav-tab active">
+  Article
+</a>
+<a href="#green" data-tab="green" class="b-nav-tab">
+  Sources
+</a>
+<a href="#blue" data-tab="blue" class="b-nav-tab">
+  Facts
+</a>
+<div id="orange" class="b-tab active">
+  <p>"Riding the AI Revolution: Anthropics' Claude and the Pursuit of Reliable, Safe Artificial Intelligence" by The Dispatch.</p>
+</div>
+<div id="green" class="b-tab">
+  [{"id": "UKlUCWfeyV4", "url": "https://www.youtube.com/watch?v=UKlUCWfeyV4", "site": "youtube"}]
+</div>
+<div id="blue" class="b-tab">
+  [
+  {
+    "fact": "The text \"Riding the AI Revolution: Anthropics' Claude and the Pursuit of Reliable, Safe Artificial Intelligence\" by The Dispatch is not provided. Please provide the text for analysis.",
+    "check": true,
+    "source": "https://www.youtube.com/watch?v=UKlUCWfeyV4#t=768.54",
+    "source_text": "because we don't need humans in the loop at all and we can work to improve future AI systems at at sort of a faster faster clip so the idea of constitutional AI is is really really simple",
+    "source_start": 768.54,
+    "match_text": "Riding the AI Revolution: Anthropics' Claude and the Pursuit of Reliable, Safe Artificial Intelligence",
+    "match_start": 1
+  }
+]
+</div>
+
+</BODY>
+<SCRIPT>
+function Tabs() {
+  var bindAll = function() {
+    var menuElements = document.querySelectorAll('[data-tab]');
+    for(var i = 0; i < menuElements.length ; i++) {
+      menuElements[i].addEventListener('click', change, false);
+    }
+  }
+
+  var clear = function() {
+    var menuElements = document.querySelectorAll('[data-tab]');
+    for(var i = 0; i < menuElements.length ; i++) {
+      menuElements[i].classList.remove('active');
+      var id = menuElements[i].getAttribute('data-tab');
+      document.getElementById(id).classList.remove('active');
+    }
+  }
+
+  var change = function(e) {
+    clear();
+    e.target.classList.add('active');
+    var id = e.currentTarget.getAttribute('data-tab');
+    document.getElementById(id).classList.add('active');
+  }
+
+  bindAll();
+}
+
+var connectTabs = new Tabs();
+</SCRIPT>
+</HTML>
