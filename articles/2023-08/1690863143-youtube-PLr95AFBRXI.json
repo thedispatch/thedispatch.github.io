@@ -1,0 +1,200 @@
+{
+  "uuid": "2c9316bc-2d3d-4daa-be6c-65da2af3f169",
+  "version": "0.1",
+  "sources": [
+    {
+      "id": "PLr95AFBRXI",
+      "url": "https://www.youtube.com/watch?v=PLr95AFBRXI",
+      "site": "youtube"
+    }
+  ],
+  "components": [
+    {
+      "source_url": "https://www.youtube.com/watch?v=PLr95AFBRXI",
+      "type": "transcript",
+      "content": [
+        {
+          "text": "new research on a room temperature superconductor\u00a0\nhas a scientific community and a buzz and for good\u00a0\u00a0 reason this will be one of the greatest\u00a0\nbreakthroughs in the history of physics\u00a0\u00a0 we're talking instant Nobel prizes for\u00a0\nthe people involved and billions and\u00a0\u00a0 billions of dollars game-changing stuff\u00a0\nbut there's been some controversy around\u00a0\u00a0 superconductors in recent memory and the\u00a0\nbigger the claim the more we have to be\u00a0\u00a0 skeptical so what's really going on is\u00a0\nit really legitimate and what could this\u00a0\u00a0 mean let's figure this out together\u00a0\nI'm Ricky and this is TwoBit DaVinci",
+          "start": 0.0,
+          "duration": 31.56
+        },
+        {
+          "text": "foreign by the way this was the winning Topic in\u00a0\nour last poll so don't forget to subscribe and\u00a0\u00a0 vote on future videos to decide what we make next\u00a0\nalright so why does this matter well five percent\u00a0\u00a0 of the energy produced in the US is wasted during\u00a0\ntransmission through power lines that's enough to\u00a0\u00a0 power all seven Central American countries four\u00a0\ntimes over with superconductors you have basically\u00a0\u00a0 no resistance no losses and near perfect energy\u00a0\ntransfer that would be one of the game changers\u00a0\u00a0 and there's a whole bunch more but we'll get back\u00a0\nto that here in just a second let's start with\u00a0\u00a0 what we know a team of researchers from South\u00a0\nKorea claim they have achieved a superconductor",
+          "start": 33.84,
+          "duration": 37.92
+        },
+        {
+          "text": "material codenamed LK 99 at room temperature and\u00a0\natmospheric pressure superconductivity was first\u00a0\u00a0 discovered by Dutch physicist haike kamerling\u00a0\nones back in 1911. like ferromagnetism and atomic\u00a0\u00a0 Spectra lines superconductivity is a phenomenon\u00a0\nwhich can only be explained by quantum mechanics\u00a0\u00a0 now that is a key factor in this story it kind\u00a0\nof ties it all together and we'll get back to\u00a0\u00a0 that multiple times throughout this story the key\u00a0\nrequirements to be classified as a superconductor\u00a0\u00a0 are the following one the electrical resistance\u00a0\nvanishes and two magnetic flux fields are expelled\u00a0\u00a0 from within the material don't worry we're\u00a0\ngoing to explain both principles if you want",
+          "start": 71.76,
+          "duration": 40.92
+        },
+        {
+          "text": "to transfer electricity through a wire you want\u00a0\nsomething with as low a resistance as possible\u00a0\u00a0 here's a table of some of the lowest resistances\u00a0\namong Metals silver is really low but it's super\u00a0\u00a0 expensive so the worldwide standard is copper to\u00a0\nbe classified as a superconductor resistance has\u00a0\u00a0 to be below 1 times 10 to the negative 13 ohm\u00a0\nmeters this means that even copper has a 168\u00a0\u00a0 000 Times Higher resistance than a superconductor\u00a0\nif you have a toaster at home and see those\u00a0\u00a0 glowing red hot coils that's probably nichrome\u00a0\na material that's really high resistance now\u00a0\u00a0 it's high on purpose because it's built to waste\u00a0\nenergy as heat to toast your bread but here's the",
+          "start": 112.68,
+          "duration": 39.12
+        },
+        {
+          "text": "crazy part it's only 66 Times Higher resistance\u00a0\nthan copper that means our worldwide standard\u00a0\u00a0 material copper is closer to a horrible conductor\u00a0\nthan it is to a superconductor one of the easiest\u00a0\u00a0 ways to understand resistance is by thinking about\u00a0\nan airplane flying through the air a bad conductor\u00a0\u00a0 like our nichrome and our toaster is like slapping\u00a0\non engines on a big refrigerator yes it'll fly\u00a0\u00a0 but you'll be wasting a ton of energy to move it\u00a0\naround and then copper would be like a Boeing 787\u00a0\u00a0 Dreamliner with a blunt nose and tapered tail\u00a0\nto absolutely minimize drag this would require\u00a0\u00a0 much less energy and then our superconductor\u00a0\nwould be like that same Boeing 787 climbing",
+          "start": 151.8,
+          "duration": 42.6
+        },
+        {
+          "text": "out of the atmosphere and into outer space where\u00a0\nthere is no air molecules at all sure I understand\u00a0\u00a0 there would be no oxygen for the ingestion for\u00a0\nthe engines and there'd be no molecules for the\u00a0\u00a0 lift over the wings but if you think about it\u00a0\nthat way that 787 would just fly at that speed\u00a0\u00a0 indefinitely because there would be no losses and\u00a0\nthat's kind of what's happening with a super index\u00a0\u00a0 we'll talk more about the benefits in just a bit\u00a0\nbut first let's talk a little bit about the drama\u00a0\u00a0 and controversy surrounding this breakthrough now\u00a0\nthere is a great deal of excitement uncertainty\u00a0\u00a0 and doubt surrounding this discovery in science\u00a0\nand engineering the greater the claim the greater",
+          "start": 194.4,
+          "duration": 36.78
+        },
+        {
+          "text": "the skepticism you need to approach it with\u00a0\nbut there's added skepticism through no fault\u00a0\u00a0 of their own ranga Diaz a physicist at the\u00a0\nUniversity of Rochester in the U.S had a paper\u00a0\u00a0 published in nature in 2020. in the paper he\u00a0\nand his colleagues claim to have created a room\u00a0\u00a0 temperature superconductor from a combination\u00a0\nof carbon sulfur and hydrogen under extreme\u00a0\u00a0 pressure the publication nature later retracted\u00a0\nthat paper in 2022 after other researchers were\u00a0\u00a0 unable to replicate the results the concerns were\u00a0\nraised about how the raw data collected from the\u00a0\u00a0 experiments was processed basically they were\u00a0\nsaying there's some fabrication potential fraud",
+          "start": 231.18,
+          "duration": 35.58
+        },
+        {
+          "text": "and other issues the scientific journal physical\u00a0\nreview letters PRL is reportedly preparing to\u00a0\u00a0 retract a second paper by Diaz on the electrical\u00a0\nproperties of manganese use disulfide according\u00a0\u00a0 to Nature PRL is investigating allegations of\u00a0\ndata fabrication and falsification combined\u00a0\u00a0 with concerns raised by the first retraction but\u00a0\nDiaz's team only solved the temperature problem\u00a0\u00a0 their superconductor still needed super high\u00a0\npressures to work so it wouldn't work in this room\u00a0\u00a0 for example the temperature would be okay but you\u00a0\nwould have to have incredible High pressures now\u00a0\u00a0 this latest breakthrough that we're talking about\u00a0\ntoday from Korea claims that it works not just at",
+          "start": 266.76,
+          "duration": 36.66
+        },
+        {
+          "text": "room temperature but at atmospheric pressure\u00a0\nthat is a double Game Changer and it's become\u00a0\u00a0 controversial because of previous claims by ranga\u00a0\nand others and it's got the scientific communities\u00a0\u00a0 guard up it would be like starting a new crypto\u00a0\nexchange after the FTX debacle it doesn't mean\u00a0\u00a0 that it's not above board but it's going to get\u00a0\nmuch more scrutiny no one is accusing the latest\u00a0\u00a0 research team of being fraudulent at least not yet\u00a0\nbut there are some interesting things going on for\u00a0\u00a0 example two papers hit the internet within two\u00a0\nhours of each other the first room temperature\u00a0\u00a0 ambient pressure super conductor and later\u00a0\na second paper titled superconductor showing",
+          "start": 303.42,
+          "duration": 36.72
+        },
+        {
+          "text": "levitation at room temperature and atmospheric\u00a0\npressure and mechanism now these papers weren't\u00a0\u00a0 published to Nature or science but a pre-print\u00a0\nserver called arcsif this isn't in and of itself a\u00a0\u00a0 bad thing it just means that further corroboration\u00a0\nand verification is required for wider scientific\u00a0\u00a0 acceptance if this turns out to be real this is\u00a0\nan automatic Nobel Prize they have it locked up\u00a0\u00a0 but interestingly it can only be shared among\u00a0\nthree people the emergence of two papers and\u00a0\u00a0 the Mad Dash to make sure people are getting\u00a0\ncredit is actually a good sign that there might\u00a0\u00a0 actually be something to this claim so here is a\u00a0\nlist of the three authors on the first paper and",
+          "start": 340.14,
+          "duration": 34.26
+        },
+        {
+          "text": "the six authors on the second it'll be really\u00a0\ninteresting how all the credits and stuff work\u00a0\u00a0 out and whose names get attributed to the Nobel\u00a0\nPrize if that's on the horizon now let's talk a\u00a0\u00a0 little bit about the timeline of how we reached\u00a0\nthis breakthrough sukbey Lee met jihoon Kim in\u00a0\u00a0 1996 and got their first taste of superconducting\u00a0\nmaterials in 1999. Lee finishes his PhD in 2004\u00a0\u00a0 and sets up Q Center which works on Quantum\u00a0\nComputing and has direct ties to superconductors\u00a0\u00a0 the first tie to quantum computers by 2017 they\u00a0\nwere getting close to having something and started\u00a0\u00a0 raising money in 2018 young Juan Quan a physics\u00a0\nProfessor comes on board part-time as her CTO",
+          "start": 374.4,
+          "duration": 37.86
+        },
+        {
+          "text": "in 2019 they confirmed that they have a room\u00a0\ntemperature superconductor working and fought\u00a0\u00a0 for Korean patents for production of low resistant\u00a0\nceramic compound in 2020 covid happens and they go\u00a0\u00a0 heads down and finally isolate the superconductor\u00a0\nobtain its Crystal composition and analyze the\u00a0\u00a0 characteristic structure they make a submission to\u00a0\nNature and get rejected because of the ranga Diaz\u00a0\u00a0 controversy it's kind of a tough time to publish\u00a0\npapers they were asked to publish locally and get\u00a0\u00a0 it peer reviewed to help with credibility on the\u00a0\nworld stage they bring on Hyun talk Kim Research\u00a0\u00a0 professor of physics at William and Mary to help\u00a0\nin further test and validate their claims in March",
+          "start": 413.04,
+          "duration": 38.76
+        },
+        {
+          "text": "2023 they filed for their International patent\u00a0\napplication and of course in July they published\u00a0\u00a0 the papers that we're here talking about okay now\u00a0\nlet's look at how LK 99 works this is going to get\u00a0\u00a0 a little bit technical we'll try to keep it very\u00a0\neasy to understand but we do have chapters below\u00a0\u00a0 and I wouldn't be offended if you skipped ahead\u00a0\nbut this is going to be interesting I promise\u00a0\u00a0 the key to such a major breakthrough comes from\u00a0\nan unconventional form of superconductivity in a\u00a0\u00a0 normal conductor free electrons within a material\u00a0\nmove around in a crystal structure and bounce\u00a0\u00a0 off atoms and ions along the way this creates\u00a0\nresistance that makes them lose part of their",
+          "start": 451.8,
+          "duration": 33.24
+        },
+        {
+          "text": "energy which is dissipated as heat and absorbed\u00a0\nin the larger lattice this is why resistivity is\u00a0\u00a0 very clear mostly tied to temperature because the\u00a0\nhigher the temperature the more ion motion there\u00a0\u00a0 is and the more collisions and losses there\u00a0\nare and this is why normally superconductors\u00a0\u00a0 have to be cool to near absolute zero but\u00a0\nin a superconductor this doesn't happen the\u00a0\u00a0 conventional explanation is the bardeen Cooper\u00a0\nschreifer Theory or BCS Theory from 1957. this\u00a0\u00a0 Theory explains that superconductivity is caused\u00a0\nby the formation of Cooper pairs which are pairs\u00a0\u00a0 of electrons with opposite spins that are Loosely\u00a0\nbound together by a weak attractive Force Cooper",
+          "start": 485.04,
+          "duration": 39.36
+        },
+        {
+          "text": "pairs are different from normal electrons and\u00a0\nthat they can condense into a coherent wave of\u00a0\u00a0 superconducting electrons these pairs flow through\u00a0\nthe material as one instead of moving as multiple\u00a0\u00a0 free electrons it's like someone guiding a group\u00a0\nof people with a thin rope through a dark Forest\u00a0\u00a0 as opposed to blindfolding everyone putting them\u00a0\nin the middle of the forest and hoping they get to\u00a0\u00a0 the other side without running into trees but LK\u00a0\n99 is like teleporting from one side of the forest\u00a0\u00a0 to the other the problem with Cooper pairs is\u00a0\nthat the string that keeps them together is weak\u00a0\u00a0 and any minor thermal vibration in the crystal\u00a0\nlattice will break them apart so you need very low",
+          "start": 524.4,
+          "duration": 37.02
+        },
+        {
+          "text": "temperatures for conventional superconductors to\u00a0\nwork but lq 99 doesn't rely on weak Cooper pairs\u00a0\u00a0 it relies on a new form of superconduction coined\u00a0\nsuperconducting Quantum Wells which enables it to\u00a0\u00a0 work at much higher temperatures than ever thought\u00a0\npossible in the past superconductors only worked\u00a0\u00a0 near absolute zero where you needed liquid helium\u00a0\nto cool them but then there was a new breakthrough\u00a0\u00a0 of high temperature superconductors but they were\u00a0\nstill incredibly incredibly cold and you would\u00a0\u00a0 need to be around negative 200 degrees Celsius and\u00a0\nyou could cool them with liquid nitrogen but LK 99\u00a0\u00a0 can work as high as 400 degrees Kelvin that's\u00a0\n260 degrees Fahrenheit or 127 degrees Celsius",
+          "start": 561.42,
+          "duration": 41.88
+        },
+        {
+          "text": "that is a new temperature range that scientists\u00a0\ndidn't even think was possible based on the old\u00a0\u00a0 theory of Cooper pairs so how does it work well\u00a0\nit has everything to do with chemical structure LK\u00a0\u00a0 99 is a solid made by replacing some of the lead\u00a0\natoms in lead appetite with copper atoms like this\u00a0\u00a0 right here lead appetite is an insulator and its\u00a0\nstructure it forms a series of stacked Columns of\u00a0\u00a0 lead atoms surrounded by phosphate groups this\u00a0\nis what that structure looks like from viewed\u00a0\u00a0 from above you can see the circle of six light\u00a0\ngray lead atoms and the external circle of pink\u00a0\u00a0 phosphorus and other dark gray lead atoms when we\u00a0\nreplace one of the outer lead atoms which forms a",
+          "start": 603.3,
+          "duration": 36.36
+        },
+        {
+          "text": "framework of the structure with a copper atom the\u00a0\nentire structure shrinks by about half a percent\u00a0\u00a0 because copper is smaller than lead and the whole\u00a0\nthing gets a bit distorted this shrinkage causes\u00a0\u00a0 stress on the internal column of lead atoms and\u00a0\ncreate superconducting Quantum Wells along the\u00a0\u00a0 column this is like opening a series of portals\u00a0\nbetween lead atoms inside that vertical column\u00a0\u00a0 electrons can pop in and out from those magical\u00a0\nportals through Quantum tunneling avoiding all\u00a0\u00a0 obstacles and therefore showing no resistance\u00a0\none thing I found interesting about this paper is\u00a0\u00a0 that it's blame superconductivity in a different\u00a0\nway yet it still works for other superconductors",
+          "start": 639.66,
+          "duration": 36.54
+        },
+        {
+          "text": "it basically says that what you need to do is\u00a0\ncontract and distort the crystal structure to make\u00a0\u00a0 these Quantum Wells you can do that by lowering\u00a0\nthe temperature or increasing the pressure which\u00a0\u00a0 we've done in the past but the moment that\u00a0\npressure drops your temperature increases your\u00a0\u00a0 superconductor stops superconducting the new way\u00a0\nto do this is to change the structure from within\u00a0\u00a0 and just by adding this copper and increasing that\u00a0\nstress it appears they've done it now this is at\u00a0\u00a0 the heart of what they've accomplished here what's\u00a0\namazing is it's not particularly that exotic and\u00a0\u00a0 or hard to do these are things that we've been\u00a0\ndoing for a long time I honestly think this will",
+          "start": 676.2,
+          "duration": 35.46
+        },
+        {
+          "text": "spark a new wave of research and before long\u00a0\nwe'll have tens if not hundreds of new ambient\u00a0\u00a0 superconductors for all sorts of applications\u00a0\nbut how good of a superconductor is LK 99 not\u00a0\u00a0 all superconductors are the same and scientists\u00a0\nclassify them according to several performance\u00a0\u00a0 metrics first there's resistivity a low resistive\u00a0\nis what makes a superconductor however no matter\u00a0\u00a0 what you've heard it's not exactly zero\u00a0\nthe threshold for material to be considered\u00a0\u00a0 superconducting is a resistivity of 10 to the\u00a0\nnegative 8 to 10 to the negative 9 ohm centimeters\u00a0\u00a0 as you can see in this graph LK 99 shows a\u00a0\nmaximum of around 4 times 10 to the negative",
+          "start": 711.66,
+          "duration": 38.46
+        },
+        {
+          "text": "9 ohm centimeters but in general it's lower than\u00a0\nthat around 10 to the negative 10 ohm centimeters\u00a0\u00a0 then there's critical temperature this is a\u00a0\ntemperature at which superconductivity is lost\u00a0\u00a0 and that's what defines a high or low temperature\u00a0\nsuperconductor this graph shows the measured\u00a0\u00a0 voltage for different levels of current inside\u00a0\nLK 99 at different temperatures the horizontal\u00a0\u00a0 flat part is where it acts as a superconductor\u00a0\nnotice that as the temperature increases that\u00a0\u00a0 horizontal range gets smaller for example at\u00a0\nroom temperature 298 Kelvin has a really wide\u00a0\u00a0 band of currents that it can support but that\u00a0\nshrinks that higher the temperature gets all",
+          "start": 750.12,
+          "duration": 38.34
+        },
+        {
+          "text": "the way to this tiny range of super conductivity\u00a0\nwhen the temperatures reach almost 400 Kelvin but\u00a0\u00a0 let's take a minute to appreciate that even at\u00a0\n400 degrees Kelvin it's still superconducting\u00a0\u00a0 at least a little and that was unheard of before\u00a0\nespecially at ambient pressure Lee and his team\u00a0\u00a0 were only able to reach 400 degrees because their\u00a0\nequipment couldn't go any further can you imagine\u00a0\u00a0 the industrial applications of a superconductor\u00a0\nworking at over 400 degrees Kelvin would have one\u00a0\u00a0 thing that was bugging me about superconductors\u00a0\nis that if there's no resistance can you get an\u00a0\u00a0 infinite current inside a superconductor can\u00a0\nI use it to charge my car in like a second and",
+          "start": 788.46,
+          "duration": 36.24
+        },
+        {
+          "text": "I found the answer is no notice that high or low\u00a0\ncurrents the same graph there's a jump in voltage\u00a0\u00a0 that signals the loss of superconductivity to\u00a0\nquenching which happens when the current inside\u00a0\u00a0 the conductor generates the magnetic field that\u00a0\nbreaks superconductivity the current at which\u00a0\u00a0 that happens is called the critical current or\u00a0\nIC here is a plot of the critical current versus\u00a0\u00a0 temperature for LK 99 really what it tells us is\u00a0\naround room temperature that critical current was\u00a0\u00a0 what we saw earlier around 250 milliamps but that\u00a0\nvalue quickly drops as a temperature increases\u00a0\u00a0 so really anything higher than that and\u00a0\nit turns into a regular metallic conductor",
+          "start": 825.24,
+          "duration": 39.3
+        },
+        {
+          "text": "finally we have the famous meissner effect or\u00a0\nsuperconducting magnetic levitation the team of\u00a0\u00a0 researchers actually managed to make a coin size\u00a0\nsample levitate well sort of on top of a powerful\u00a0\u00a0 permanent magnet here's actual video footage\u00a0\nof the authors playing with a little sample\u00a0\u00a0 and you can see that there is definitely something\u00a0\npushing up but is it floating I'll let you be the\u00a0\u00a0 judge of that the meissner effect is explained by\u00a0\nthe formation of little Loops of electric current\u00a0\u00a0 called screening currents on the surface of\u00a0\nthe superconductor these currents are like\u00a0\u00a0 electromagnets that generate a magnetic field\u00a0\nthat exactly cancel out the external magnetic",
+          "start": 865.86,
+          "duration": 36.9
+        },
+        {
+          "text": "field so it levitates this principle is what\u00a0\nmakes superconductors attractive for high-speed\u00a0\u00a0 maglev trains so at this point you've got to be\u00a0\nwondering what's the catch rare materials complex\u00a0\u00a0 processes toxic chemicals no this superconductor\u00a0\nis actually pretty easy and cheap to make all you\u00a0\u00a0 need is lead oxide lead sulfate copper powder and\u00a0\nphosphorus the entire synthesis is a three-step\u00a0\u00a0 solid state process where you put the ingredients\u00a0\ninside a sealed quartz tube and cook it in a lab\u00a0\u00a0 oven at less than a thousand degrees Celsius for\u00a0\nabout four days and it's done once you get this\u00a0\u00a0 ugly looking rock you can use it as is or\u00a0\nyou can make thin films with it using thermal",
+          "start": 902.76,
+          "duration": 41.64
+        },
+        {
+          "text": "vapor deposition this is standard technology in\u00a0\nIndustries like Electronics Optics and Aerospace\u00a0\u00a0 this is seriously game changing technology but\u00a0\nthere are many questions that are still unanswered\u00a0\u00a0 is there a way to combine several conductors\u00a0\nto achieve higher currents I mean 300 milliamps\u00a0\u00a0 isn't a lot especially for industrial purposes and\u00a0\npower transmission can you imagine charging your\u00a0\u00a0 Tesla on 300 milliamps these measurements were\u00a0\nmade on a tiny sample what would happen when we\u00a0\u00a0 make this into a 12 mile track for a maglev train\u00a0\nwould it still work how will this scale and what\u00a0\u00a0 about joints can you connect two pieces of LK 99\u00a0\nand have the superconductivity pass from one to",
+          "start": 944.4,
+          "duration": 37.86
+        },
+        {
+          "text": "the other or does it have to be one constant solid\u00a0\npiece these are things we just don't know yet but\u00a0\u00a0 if these guys claims are legit which they seem to\u00a0\nbe we'll know very soon and when we do we'll have\u00a0\u00a0 a follow-up video and we'll bring you up to speed\u00a0\non all the new findings this is very early on but\u00a0\u00a0 it's very promising the next steps are going to\u00a0\nbe critical they have provided their work for the\u00a0\u00a0 entire scientific community and a lot of labs and\u00a0\nresearch facilities around the world are trying it\u00a0\u00a0 for themselves the next step is corroboration\u00a0\nand replication can other people do the same\u00a0\u00a0 thing this is part of what makes the scientific\u00a0\nprocess so powerful is repeatability if only one",
+          "start": 982.26,
+          "duration": 39.48
+        },
+        {
+          "text": "person can do it odds are there might be some foul\u00a0\nplaying but if others in the scientific Community\u00a0\u00a0 can start to test it which they will be doing in\u00a0\nthe coming weeks or so we'll do follow videos and\u00a0\u00a0 tell you how this plays out the amazing part\u00a0\nis that this is not exotic the material drills\u00a0\u00a0 required are pretty common lead is a fairly common\u00a0\nmaterial in the Earth's crust and so as everything\u00a0\u00a0 else required even the machines and Fabrication\u00a0\nprocesses are pretty straightforward so\u00a0\u00a0 there should be really no reason why we shouldn't\u00a0\nhave an answer the next month or so now let's\u00a0\u00a0 assume that this actually is legit and all\u00a0\ntheir claims are true what could this mean",
+          "start": 1021.74,
+          "duration": 39.6
+        },
+        {
+          "text": "for the world well this would have a deep impound\u00a0\non almost every engineering discipline one of the\u00a0\u00a0 key benefits of superconductors is confinement\u00a0\nlet me give you two examples the first is an MRI\u00a0\u00a0 machine MRI machines produce such strong magnetic\u00a0\nfields that it's important to confine those fields\u00a0\u00a0 to the room otherwise they could be harmful to\u00a0\npacemakers or people that didn't sign up for an\u00a0\u00a0 MRI the first MRI machines used around 40 tons of\u00a0\niron to line the rooms they sat in to Shield the\u00a0\u00a0 magnetic fields this makes it incredibly expensive\u00a0\nand difficult to install MRI machines but modern\u00a0\u00a0 MRI machines use secondary electromagnets to\u00a0\noperate in a superconducting state they have",
+          "start": 1061.34,
+          "duration": 40.98
+        },
+        {
+          "text": "zero resistance and can carry large amounts\u00a0\nof current without overheating the only catch\u00a0\u00a0 is that these superconductors need to be cooled\u00a0\nwith liquid helium down to negative 269 degrees\u00a0\u00a0 Celsius or 4 Kelvin that's 4 degrees from absolute\u00a0\nzero and that is the largest part of the cost and\u00a0\u00a0 maintenance of running MRI machines but with room\u00a0\ntemperature superconductors system design would be\u00a0\u00a0 simplified dramatically and MRI machines up\u00a0\nfront and operational cost would be slashed\u00a0\u00a0 significantly imagine MRI machines available for\u00a0\na lot more than just the most critical things and\u00a0\u00a0 not having long wait times medicine Game Changer\u00a0\nhow about nuclear fusion reactors again the high",
+          "start": 1102.32,
+          "duration": 40.56
+        },
+        {
+          "text": "energy plasma that is produced has to be confined\u00a0\nwhich is currently done with superconductors and\u00a0\u00a0 again at very low temperatures this energy input\u00a0\nto keep that superconductor material cold could be\u00a0\u00a0 made away with in a world with room temperature\u00a0\nsuperconductors the meissner effect would even\u00a0\u00a0 allow for Ultra efficient low-cost maglev trains\u00a0\nlike we mentioned before you would need neodymium\u00a0\u00a0 or other rare earth metals you could use this\u00a0\nroom room temperature superconductor how about\u00a0\u00a0 Ultra efficient electric vehicles that don't\u00a0\nneed battery or motor cooling all the heat that\u00a0\u00a0 is produced in Copper from running windings\u00a0\ninside of an electric motor have to be cooled",
+          "start": 1142.88,
+          "duration": 40.62
+        },
+        {
+          "text": "because they're not perfectly efficient and do\u00a0\nhave some resistance and this reduces efficiency\u00a0\u00a0 twice because one you're wasting some of that\u00a0\nelectricity as heat and two you have to run\u00a0\u00a0 pumps and heat exchangers to handle that heat\u00a0\nboth of those things use energy that aren't\u00a0\u00a0 propelling your car forward superconductors are\u00a0\nalso able to maintain a current with no applied\u00a0\u00a0 voltage experiments have demonstrated that\u00a0\ncurrents in a superconducting coil can persist\u00a0\u00a0 for years without any measurable degradation\u00a0\nexperimental evidence points to a lifetime\u00a0\u00a0 of at least a hundred thousand years so might\u00a0\nwe be on the brink of a whole new industry of",
+          "start": 1183.5,
+          "duration": 34.92
+        },
+        {
+          "text": "room temperature superconductor batteries that's\u00a0\na video all by itself for another day but by far\u00a0\u00a0 the most fascinating application has to do with\u00a0\nthe fundamental research Suk Bay Lee was working\u00a0\u00a0 on at Q Center and that's quantum computers if\u00a0\nyou've ever seen a picture of a quantum computer\u00a0\u00a0 in all its Glory it is a really beautiful\u00a0\nmachine the chip itself is actually really\u00a0\u00a0 small the rest of the machine is entirely made\u00a0\nand there for keeping it cool room temperature\u00a0\u00a0 SCS would be one of the biggest game changers and\u00a0\nit would allow a world where we could have quantum\u00a0\u00a0 computers on our phones and our laptops we also\u00a0\nmentioned power distribution right that's another",
+          "start": 1218.42,
+          "duration": 40.32
+        },
+        {
+          "text": "one let us know in the comments below if there\u00a0\nare other conditions where a room temperature\u00a0\u00a0 superconductor would be completely game changing\u00a0\nwe'd love to love to hear from you this is\u00a0\u00a0 one of the most exciting papers I've read\u00a0\nin recent memory and I started with a very\u00a0\u00a0 healthy dose of skepticism because of the other\u00a0\nfalsified claims from a couple of years ago\u00a0\u00a0 from what I've seen there is reason to be\u00a0\noptimistic and we will have to wait for\u00a0\u00a0 verification from other labs around the world\u00a0\nbut what an amazing thing I can't wait to see\u00a0\u00a0 how this plays out and we will definitely cover\u00a0\nit in future videos if you have other ideas or",
+          "start": 1258.74,
+          "duration": 37.14
+        },
+        {
+          "text": "other details that we've left out let us know in\u00a0\nthe comments we will definitely do a follow-up\u00a0\u00a0 video with more context and hopefully that was\u00a0\ninsightful and if you thought that was cool\u00a0\u00a0 check out this video next until next week I'm\u00a0\nrecutive Da Vinci thank you so much for watching",
+          "start": 1297.38,
+          "duration": 12.36
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=PLr95AFBRXI",
+      "type": "generated",
+      "content": "- The video discusses the recent research on a room temperature superconductor.\n- The discovery has generated excitement in the scientific community and could lead to significant breakthroughs in physics.\n- Superconductors have the potential to revolutionize energy transmission by eliminating resistance and enabling near-perfect energy transfer.\n- Previous controversies and skepticism surrounding superconductors have made people cautious about the legitimacy of this claim.\n- The team of researchers from South Korea claims to have achieved a room temperature superconductor called LK 99.\n- The video explains the key requirements for a material to be classified as a superconductor, such as vanishing electrical resistance and the expulsion of magnetic flux fields.\n- LK 99 is made by replacing some of the lead atoms in lead appetite with copper atoms, creating superconducting Quantum Wells.\n- The video discusses the drama and controversy surrounding the breakthrough, including previous claims by other researchers and the retraction of papers.\n- The video also highlights the potential applications of room temperature superconductors, such as in power transmission, MRI machines, nuclear fusion reactors, maglev trains, electric vehicles, and quantum computers.\n- The video concludes by mentioning the need for further verification and replication of the research by other labs."
+    }
+  ],
+  "filename": "1690863143-youtube-PLr95AFBRXI"
+}
