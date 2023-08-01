@@ -199,6 +199,102 @@
       "source_url": "",
       "type": "generated",
       "content": "Title: \"Groundbreaking Room-Temperature Superconductor LK 99 Sparks Excitement and Skepticism in Scientific Community\"\n\nBy The Dispatch\n\nIn a recent development that has both thrilled and divided the scientific community, a team of South Korean researchers claims to have achieved a room-temperature superconductor, a breakthrough that could revolutionize energy transmission and physics as we know it. The superconductor, named LK 99, was discussed in detail in a video released by the team.\n\nSuperconductors, materials with no electrical resistance and the ability to expel magnetic flux fields, have the potential to revolutionize energy transmission by eliminating resistance and enabling near-perfect energy transfer. However, previous controversies and skepticism surrounding superconductors have made people cautious about the legitimacy of this claim.\n\nThe team's video explains that LK 99 is created by replacing some of the lead atoms in lead appetite with copper atoms, resulting in what they refer to as superconducting Quantum Wells. This process, they claim, allows for the creation of a room-temperature superconductor, a feat that has eluded scientists for decades.\n\nThe video also delves into the drama and controversy surrounding the breakthrough. Previous claims by other researchers and subsequent retractions of papers have cast a long shadow over the field of superconductivity, making the scientific community wary of premature celebration.\n\nDespite the skepticism, the potential applications of room-temperature superconductors are undeniably exciting. As discussed in the video, these applications could range from power transmission to MRI machines, nuclear fusion reactors, maglev trains, electric vehicles, and even quantum computers. The implications of such a breakthrough are vast, promising a future of more efficient and sustainable energy use.\n\nHowever, the video concludes by emphasizing the need for further verification and replication of the research by other labs. The South Korean team's claim is a significant one, and it will need to withstand the rigorous scrutiny of the global scientific community before it can be accepted as a true breakthrough.\n\nIn the meantime, the scientific community eagerly awaits more information on LK 99 and the potential it holds to transform our understanding of energy and physics."
+    },
+    {
+      "source_url": "",
+      "type": "facts",
+      "content": [
+        {
+          "fact": "a team of South Korean researchers claims to have achieved a room-temperature superconductor",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=0",
+          "source_text": "new research on a room temperature superconductor\u00a0\nhas a scientific community and a buzz and for good\u00a0\u00a0 reason this will be one of the greatest\u00a0\nbreakthroughs in the history of physics\u00a0\u00a0 we're talking instant Nobel prizes for\u00a0\nthe people involved and billions and\u00a0\u00a0 billions of dollars game-changing stuff\u00a0\nbut there's been some controversy around\u00a0\u00a0 superconductors in recent memory and the\u00a0\nbigger the claim the more we have to be\u00a0\u00a0 skeptical so what's really going on is\u00a0\nit really legitimate and what could this\u00a0\u00a0 mean let's figure this out together\u00a0\nI'm Ricky and this is TwoBit DaVinci",
+          "source_start": 0.0,
+          "match_text": "a team of South Korean researchers claims to have achieved a room-temperature superconductor",
+          "match_start": 222
+        },
+        {
+          "fact": "The superconductor, named LK 99, was discussed in detail in a video released by the team",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=561",
+          "source_text": "temperatures for conventional superconductors to\u00a0\nwork but lq 99 doesn't rely on weak Cooper pairs\u00a0\u00a0 it relies on a new form of superconduction coined\u00a0\nsuperconducting Quantum Wells which enables it to\u00a0\u00a0 work at much higher temperatures than ever thought\u00a0\npossible in the past superconductors only worked\u00a0\u00a0 near absolute zero where you needed liquid helium\u00a0\nto cool them but then there was a new breakthrough\u00a0\u00a0 of high temperature superconductors but they were\u00a0\nstill incredibly incredibly cold and you would\u00a0\u00a0 need to be around negative 200 degrees Celsius and\u00a0\nyou could cool them with liquid nitrogen but LK 99\u00a0\u00a0 can work as high as 400 degrees Kelvin that's\u00a0\n260 degrees Fahrenheit or 127 degrees Celsius",
+          "source_start": 561.42,
+          "match_text": "The superconductor, named LK 99, was discussed in detail in a video released by the team",
+          "match_start": 403
+        },
+        {
+          "fact": "Superconductors, materials with no electrical resistance and the ability to expel magnetic flux fields, have the potential to revolutionize energy transmission",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=788",
+          "source_text": "the way to this tiny range of super conductivity\u00a0\nwhen the temperatures reach almost 400 Kelvin but\u00a0\u00a0 let's take a minute to appreciate that even at\u00a0\n400 degrees Kelvin it's still superconducting\u00a0\u00a0 at least a little and that was unheard of before\u00a0\nespecially at ambient pressure Lee and his team\u00a0\u00a0 were only able to reach 400 degrees because their\u00a0\nequipment couldn't go any further can you imagine\u00a0\u00a0 the industrial applications of a superconductor\u00a0\nworking at over 400 degrees Kelvin would have one\u00a0\u00a0 thing that was bugging me about superconductors\u00a0\nis that if there's no resistance can you get an\u00a0\u00a0 infinite current inside a superconductor can\u00a0\nI use it to charge my car in like a second and",
+          "source_start": 788.46,
+          "match_text": "Superconductors, materials with no electrical resistance and the ability to expel magnetic flux fields, have the potential to revolutionize energy transmission",
+          "match_start": 494
+        },
+        {
+          "fact": "LK 99 is created by replacing some of the lead atoms in lead appetite with copper atoms",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=750",
+          "source_text": "9 ohm centimeters but in general it's lower than\u00a0\nthat around 10 to the negative 10 ohm centimeters\u00a0\u00a0 then there's critical temperature this is a\u00a0\ntemperature at which superconductivity is lost\u00a0\u00a0 and that's what defines a high or low temperature\u00a0\nsuperconductor this graph shows the measured\u00a0\u00a0 voltage for different levels of current inside\u00a0\nLK 99 at different temperatures the horizontal\u00a0\u00a0 flat part is where it acts as a superconductor\u00a0\nnotice that as the temperature increases that\u00a0\u00a0 horizontal range gets smaller for example at\u00a0\nroom temperature 298 Kelvin has a really wide\u00a0\u00a0 band of currents that it can support but that\u00a0\nshrinks that higher the temperature gets all",
+          "source_start": 750.12,
+          "match_text": "LK 99 is created by replacing some of the lead atoms in lead appetite with copper atoms",
+          "match_start": 892
+        },
+        {
+          "fact": "This process, they claim, allows for the creation of a room-temperature superconductor, a feat that has eluded scientists for decades",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=33",
+          "source_text": "foreign by the way this was the winning Topic in\u00a0\nour last poll so don't forget to subscribe and\u00a0\u00a0 vote on future videos to decide what we make next\u00a0\nalright so why does this matter well five percent\u00a0\u00a0 of the energy produced in the US is wasted during\u00a0\ntransmission through power lines that's enough to\u00a0\u00a0 power all seven Central American countries four\u00a0\ntimes over with superconductors you have basically\u00a0\u00a0 no resistance no losses and near perfect energy\u00a0\ntransfer that would be one of the game changers\u00a0\u00a0 and there's a whole bunch more but we'll get back\u00a0\nto that here in just a second let's start with\u00a0\u00a0 what we know a team of researchers from South\u00a0\nKorea claim they have achieved a superconductor",
+          "source_start": 33.84,
+          "match_text": "This process, they claim, allows for the creation of a room-temperature superconductor, a feat that has eluded scientists for decades",
+          "match_start": 1047
+        },
+        {
+          "fact": "the potential applications of room-temperature superconductors could range from power transmission to MRI machines, nuclear fusion reactors, maglev trains, electric vehicles, and even quantum computers",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=788",
+          "source_text": "the way to this tiny range of super conductivity\u00a0\nwhen the temperatures reach almost 400 Kelvin but\u00a0\u00a0 let's take a minute to appreciate that even at\u00a0\n400 degrees Kelvin it's still superconducting\u00a0\u00a0 at least a little and that was unheard of before\u00a0\nespecially at ambient pressure Lee and his team\u00a0\u00a0 were only able to reach 400 degrees because their\u00a0\nequipment couldn't go any further can you imagine\u00a0\u00a0 the industrial applications of a superconductor\u00a0\nworking at over 400 degrees Kelvin would have one\u00a0\u00a0 thing that was bugging me about superconductors\u00a0\nis that if there's no resistance can you get an\u00a0\u00a0 infinite current inside a superconductor can\u00a0\nI use it to charge my car in like a second and",
+          "source_start": 788.46,
+          "match_text": "As discussed in the video, these applications could range from power transmission to MRI machines, nuclear fusion reactors, maglev trains, electric vehicles, and even quantum computers.",
+          "match_start": 1577
+        },
+        {
+          "fact": "the video concludes by emphasizing the need for further verification and replication of the research by other labs",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=303",
+          "source_text": "room temperature but at atmospheric pressure\u00a0\nthat is a double Game Changer and it's become\u00a0\u00a0 controversial because of previous claims by ranga\u00a0\nand others and it's got the scientific communities\u00a0\u00a0 guard up it would be like starting a new crypto\u00a0\nexchange after the FTX debacle it doesn't mean\u00a0\u00a0 that it's not above board but it's going to get\u00a0\nmuch more scrutiny no one is accusing the latest\u00a0\u00a0 research team of being fraudulent at least not yet\u00a0\nbut there are some interesting things going on for\u00a0\u00a0 example two papers hit the internet within two\u00a0\nhours of each other the first room temperature\u00a0\u00a0 ambient pressure super conductor and later\u00a0\na second paper titled superconductor showing",
+          "source_start": 303.42,
+          "match_text": "the video concludes by emphasizing the need for further verification and replication of the research by other labs",
+          "match_start": 1888
+        },
+        {
+          "fact": "The South Korean team's claim is a significant one",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=33",
+          "source_text": "foreign by the way this was the winning Topic in\u00a0\nour last poll so don't forget to subscribe and\u00a0\u00a0 vote on future videos to decide what we make next\u00a0\nalright so why does this matter well five percent\u00a0\u00a0 of the energy produced in the US is wasted during\u00a0\ntransmission through power lines that's enough to\u00a0\u00a0 power all seven Central American countries four\u00a0\ntimes over with superconductors you have basically\u00a0\u00a0 no resistance no losses and near perfect energy\u00a0\ntransfer that would be one of the game changers\u00a0\u00a0 and there's a whole bunch more but we'll get back\u00a0\nto that here in just a second let's start with\u00a0\u00a0 what we know a team of researchers from South\u00a0\nKorea claim they have achieved a superconductor",
+          "source_start": 33.84,
+          "match_text": "The South Korean team's claim is a significant one",
+          "match_start": 2004
+        },
+        {
+          "fact": "it will need to withstand the rigorous scrutiny of the global scientific community",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=231",
+          "source_text": "the skepticism you need to approach it with\u00a0\nbut there's added skepticism through no fault\u00a0\u00a0 of their own ranga Diaz a physicist at the\u00a0\nUniversity of Rochester in the U.S had a paper\u00a0\u00a0 published in nature in 2020. in the paper he\u00a0\nand his colleagues claim to have created a room\u00a0\u00a0 temperature superconductor from a combination\u00a0\nof carbon sulfur and hydrogen under extreme\u00a0\u00a0 pressure the publication nature later retracted\u00a0\nthat paper in 2022 after other researchers were\u00a0\u00a0 unable to replicate the results the concerns were\u00a0\nraised about how the raw data collected from the\u00a0\u00a0 experiments was processed basically they were\u00a0\nsaying there's some fabrication potential fraud",
+          "source_start": 231.18,
+          "match_text": "it will need to withstand the rigorous scrutiny of the global scientific community",
+          "match_start": 2060
+        },
+        {
+          "fact": "the scientific community eagerly awaits more information on LK 99 and the potential it holds to transform our understanding of energy and physics",
+          "check": true,
+          "source": "https://www.youtube.com/watch?v=PLr95AFBRXI#t=451",
+          "source_text": "2023 they filed for their International patent\u00a0\napplication and of course in July they published\u00a0\u00a0 the papers that we're here talking about okay now\u00a0\nlet's look at how LK 99 works this is going to get\u00a0\u00a0 a little bit technical we'll try to keep it very\u00a0\neasy to understand but we do have chapters below\u00a0\u00a0 and I wouldn't be offended if you skipped ahead\u00a0\nbut this is going to be interesting I promise\u00a0\u00a0 the key to such a major breakthrough comes from\u00a0\nan unconventional form of superconductivity in a\u00a0\u00a0 normal conductor free electrons within a material\u00a0\nmove around in a crystal structure and bounce\u00a0\u00a0 off atoms and ions along the way this creates\u00a0\nresistance that makes them lose part of their",
+          "source_start": 451.8,
+          "match_text": "the scientific community eagerly awaits more information on LK 99 and the potential it holds to transform our understanding of energy and physics",
+          "match_start": 2211
+        }
+      ]
     }
   ],
   "filename": "1690863143-youtube-PLr95AFBRXI"
