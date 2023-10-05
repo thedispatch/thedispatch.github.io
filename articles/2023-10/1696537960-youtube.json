@@ -1861,6 +1861,472 @@
       "source_url": "https://www.youtube.com/watch?v=Z6nkEZyS9nA",
       "type": "generated",
       "content": "- The video is about how to get the transcript of a YouTube video automatically using Python code.\n- The first step is to get the ID of the YouTube video, which is the last part of the video's URL.\n- The next step is to add the ID to the Python code and pass the output to save it to a text file or use it for natural language processing.\n- The video mentions that there are manual ways and browser extensions to get transcripts, but the goal is to do it programmatically for multiple videos.\n- The video recommends installing the \"youtube-transcript-api\" package using pip or conda.\n- The code imports the \"youtube_transcript_api\" module and uses the \"get_transcript\" function to retrieve the transcript for a specific video ID.\n- Different languages can be specified to get transcripts in different languages.\n- The code extracts the text from the transcript and appends it to a list, which can be saved to a text file.\n- The video also mentions using additional libraries like sklearn for further analysis of the extracted text.\n- The video concludes by demonstrating the code and showing the generated text file with the transcript."
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=8szAkDLWp-M",
+      "type": "transcript",
+      "content": [
+        {
+          "text": "[Music] taxi driver but who the hell else are you talking talking to me it really goes back to brain De Palma it's independent cinema in Hollywood started saying hey maybe these indie films could these kids could work in the industry and so we",
+          "start": 0.0,
+          "duration": 27.819
+        },
+        {
+          "text": "were all out in LA and he introduced me to Paul Schrader Schrader wrote Taxi Driver Travis comes from his vision but more psyche I connected with it through dostoevsky's Notes from Underground it was like enlightening you know and so for me when I read the script Brian gave",
+          "start": 17.279,
+          "duration": 34.021
+        },
+        {
+          "text": "it to me he said you know I can't I want to do it I can't do it but maybe you should do it but I didn't have enough cachet as they say at that time to make the picture but then they saw the rough cut of Mean Streets and they changed their mind",
+          "start": 33.96,
+          "duration": 26.759
+        },
+        {
+          "text": "especially when they saw De Niro in it and so they said for the two of you we could probably get this film made why would you talk to them why don't you answer my calls when I call you think I don't know you here we kept thinking in terms of the character and his",
+          "start": 47.399,
+          "duration": 28.86
+        },
+        {
+          "text": "loneliness and his acting out not condoning the acting out but he does act out and yet an empathy with him which is really tricky we wanted to make it so badly nobody would make it that we've been thinking of going to different cities to make it San Francisco the taxi",
+          "start": 61.32,
+          "duration": 28.921
+        },
+        {
+          "text": "driving wasn't the same and we said no it has to be Manhattan ultimately what stayed with us was the psychological and emotional state of that character as we know now tragically it's a norm every other person is like Travis pickle now for me the",
+          "start": 75.72,
+          "duration": 30.96
+        },
+        {
+          "text": "visualization of the movie was to always try to keep you off balance keep the audience off balance I felt that when he made that phone call it was so painful we shouldn't witness it so the camera should track away but not pan away it should move completely to a hallway",
+          "start": 91.86,
+          "duration": 32.819
+        },
+        {
+          "text": "and in the hallway you think somebody's coming but nobody's going to come nothing's going to happen we're all alone but we don't want to experience the depth of his pain at that point and at the same time there's a sense of anxiety on the viewer",
+          "start": 108.42,
+          "duration": 34.579
+        },
+        {
+          "text": "what's going to happen in the hallway well apparently nothing that was the first shot it came up by so that's the style there's another thing too with a taxi pulls up at the beginning of the film into the taxi garage taxi is coming in with panning with it as it comes in",
+          "start": 125.759,
+          "duration": 29.501
+        },
+        {
+          "text": "and normally it goes this way in the camera would pan with it and it stops well as it came in I went the other way and as we rested the cow came in and stopped wait I'm supposed to be looking at the car no we're going to go another way and so every shot as much as",
+          "start": 140.099,
+          "duration": 29.961
+        },
+        {
+          "text": "possible was designed to be slightly disconcerting But ultimately ultimately satisfying that was the philosophy of the the shooting [Music] Gangs of New York us natives born right",
+          "start": 155.22,
+          "duration": 37.839
+        },
+        {
+          "text": "wise to this fine land or the foreign hordes defiling it well gangs in New York comes out of there those cobblestone streets around the the church on Mott Street and Mulberry Street and also coming off the other element that I grew up with really was",
+          "start": 173.459,
+          "duration": 30.239
+        },
+        {
+          "text": "the Bowery at that time the Bowery was what you call now homeless at that time really basically alcoholics guys dying in the streets basically very very difficult place to grow up around and in and so but there was something about that Bowery and something about the",
+          "start": 189.239,
+          "duration": 28.502
+        },
+        {
+          "text": "neighborhood and the way the buildings were created in the cellars the sellers there's so many Sellers and my father would talk about growing up there going into one building going down the cellar and coming out two blocks away running away from the cops or some of the guys",
+          "start": 203.7,
+          "duration": 30.36
+        },
+        {
+          "text": "here it had its own life it had it was like an organism and it had a history well then we got business in fact we do what Leo DiCaprio was interesting because De Niro we were acquainted with each other when we was 16 years old so because of my",
+          "start": 217.98,
+          "duration": 28.0
+        },
+        {
+          "text": "relationship with him going back to when we were 16. he um experienced what I experienced growing up so he's the only one I know around who's around that and who was working in that capacity that knows who I am where I came from and the world we were in he then called me and",
+          "start": 234.18,
+          "duration": 31.44
+        },
+        {
+          "text": "said at one point he just made a film called This Boy's Life and he was working with this kid that he he cast named Leo DiCaprio said he's very good he got to do work with him someday and Bob never really used to tell me that work with somebody you know just go from",
+          "start": 250.2,
+          "duration": 24.8
+        },
+        {
+          "text": "picture to picture if we work together DiCaprio uh liked our pictures came together and they said why don't we you've always wanted to do gangs in New York a bit it we started it many times it got canceled here's a chance this kid Lear DiCaprio really likes your films at",
+          "start": 262.68,
+          "duration": 30.279
+        },
+        {
+          "text": "least meet with him and he was willing to go whatever I could do to make that film so that's how it all started with him coming off of Titanic and a couple of other films then we convinced Daniel day to get into it as a Bill the Butcher and Daniel day is very intense and very",
+          "start": 277.259,
+          "duration": 34.561
+        },
+        {
+          "text": "uh specific actor and what I love about working with him is that Daniel has a thing where if he starts he stays in that character people think it's kind of a Mystique but it really makes sense and also because if I'm talking to build a butcher and in between takes it's Daniel",
+          "start": 294.6,
+          "duration": 34.86
+        },
+        {
+          "text": "I'm still talking to Bill he stays in that character and he'll be one of the other actors Irish and he's not supposed to like the Irish and you know he treats that person that way I don't give a company about your moral conundrum you meat-headed sack they said why",
+          "start": 312.18,
+          "duration": 29.22
+        },
+        {
+          "text": "is he asking that that that's what that is just we're not playing I mean we're playing but we're living it and so he's very good that way DiCaprio is another way entirely and he he comes at a character from every possible angle and we find that with Leo",
+          "start": 326.88,
+          "duration": 38.12
+        },
+        {
+          "text": "most of the work is done before we shoot Good Fellas [Music] as far back as I can remember I always wanted to be a gangster Goodfellas was made 18 years after mean streets so I didn't really want to go to do another",
+          "start": 344.4,
+          "duration": 32.65
+        },
+        {
+          "text": "genre gangster genre right I mean there is no main character I mean Ray Liotta is a wonderful actor and but he's like Virgil taking Dante through the Underworld the real character in the movie is the underworld after doing the film Last Temptation Of Christ when I",
+          "start": 363.36,
+          "duration": 29.879
+        },
+        {
+          "text": "got back I owed Warner Brothers Goodfellas or became Goodfellas it was called Wise Guys at the time I didn't really almost didn't want to make it it was Michael Powell the director of The Red Shoes co-director I should say and other masterpieces who read the script",
+          "start": 378.78,
+          "duration": 27.419
+        },
+        {
+          "text": "and insisted I make it every shot may feel like a documentary but the camera moves everything you see it's all clearly it's all there in the script we had to Stage bits of action Joe Reedy did and Michael ballhouse my cameraman they worked out all the background",
+          "start": 391.979,
+          "duration": 32.701
+        },
+        {
+          "text": "action for the long Copacabana shot all I said was we start out in the front he gives the guy the money next thing you know go through the thing we go through here we go through here we go through here we go you know we wind up on the famous comic Kenny Youngman everything",
+          "start": 408.479,
+          "duration": 22.081
+        },
+        {
+          "text": "has to flow with no obstruction he's got to impress her they send him bottles of champagne everybody knows him that's his height so that shot had to be and I wanted Joe Pesci to be in the film and I think he resisted it I know he resisted it he",
+          "start": 419.94,
+          "duration": 32.099
+        },
+        {
+          "text": "said I don't know gangster stuff and everything yeah but Joe I said this character is really interesting based on a real real guy really funny he said well I if you do it I got to tell you something and I said well what is it he goes not here and he acted out",
+          "start": 436.08,
+          "duration": 26.361
+        },
+        {
+          "text": "this scene that happened to him I knew exactly where to put it went through the scene over and over again recorded it all each take and then I created from the actors improvisations and try to make sure that it accelerated the right way because the slightest change",
+          "start": 452.58,
+          "duration": 32.64
+        },
+        {
+          "text": "you know of like why my funny uh what do you mean I'm funny I'm not funny otherwise it would be just repetitious funny like I'm a clown I amuse you I make you laugh I'm here to amuse you what do you mean funny funny how how am I funny and I decided would",
+          "start": 468.66,
+          "duration": 26.699
+        },
+        {
+          "text": "just do it with two cameras we squeeze it in on a day that wasn't scheduled the two cameras would be white medium wide shots because it was important to see not just there are no close-ups it was important to see Joe's character and raise",
+          "start": 482.58,
+          "duration": 26.041
+        },
+        {
+          "text": "character in relation to the people around them and while the intensity builds you see the body language everybody around them change and it just happens and I said well that's even better you know so close-ups no let's get out of here you know we shot it like",
+          "start": 495.24,
+          "duration": 29.879
+        },
+        {
+          "text": "an hour and a half it improvised to with the bottle breaking on on Tony dyro's head and that sort of thing he had the nerve to ask to pay the bill [Music] guys you tuned up they're connected down Providence",
+          "start": 510.36,
+          "duration": 31.351
+        },
+        {
+          "text": "what they're gonna do is come back with some guys and kill you I always wanted to work but Jack Nicholson being a film and they offered him the part and then he said you know give me something to play and he was right because the way the script was a",
+          "start": 530.88,
+          "duration": 27.959
+        },
+        {
+          "text": "bill Monahan script which is a very good script but the character Costello was still presented as your generic Big Shot gangster he hears this young kid in town who just beat up somebody in a bar he calls him in checks him out and then he says come and",
+          "start": 544.8,
+          "duration": 29.281
+        },
+        {
+          "text": "talk to me because he looks at him and said maybe I can use this kid we've seen that scene many times in westerns and gangster films because it's very truthful that's what happens you could do it in business too suddenly make a big hit with something and everybody",
+          "start": 559.74,
+          "duration": 26.28
+        },
+        {
+          "text": "calls you and they want to see what you can do for them in this case it's the underworld and there was a scene where he's eating a lobster lunch it said in his apartment and he has this kid coming but basic line was what can you do for me but you want to work with me you're a",
+          "start": 572.58,
+          "duration": 28.26
+        },
+        {
+          "text": "tough guy what can you do for me I'd seen that scene many times and Nicholson said what if call me it's what if while we're at lunch on the table in a little plastic bag is a severed human hand I said no that's a job interview and you never mention it don't even discuss it",
+          "start": 587.1,
+          "duration": 33.3
+        },
+        {
+          "text": "we went off on a whirlwind of the fact that Costello would be losing control and in a sense losing his mind really that's something that was very controversial at the time some people remember that some didn't but the thing was that I I was around a situation like",
+          "start": 602.82,
+          "duration": 31.56
+        },
+        {
+          "text": "that when I was growing up where somebody very powerful who was eventually killed in 1968 was in fact losing his mind and killing people an atmosphere of fear that I saw around that area that was what I wanted to capture and departed worse than that",
+          "start": 619.5,
+          "duration": 31.978
+        },
+        {
+          "text": "these guys were all informers on each other and it's true in a world where everyone is informing on each other now complain about the guy as well he's out of his mind he's overdoing no that's imagine that's in effect what it would be like",
+          "start": 635.339,
+          "duration": 28.62
+        },
+        {
+          "text": "you're completely under um his control and he's out of his mind and that's what I feel the world is like right now [Music] Raging Bull it should be with everything you got I",
+          "start": 648.899,
+          "duration": 27.242
+        },
+        {
+          "text": "want you to lay me out go ahead you're sure all right the 70s Studio system changed a great deal and the week that film was released was the same week from the same studio and Michael tremino's Heaven's gate opened that A Raging Bull Apocalypse Now",
+          "start": 663.18,
+          "duration": 33.858
+        },
+        {
+          "text": "ball from the same Studio United Artist that ended what the seven days they call this you know Golden Age Etc but really it ended it ended the power of um the director in a way in American filmmaking and that had to come back through independent cinema",
+          "start": 682.019,
+          "duration": 33.181
+        },
+        {
+          "text": "another way through the 80s the 70s was very much that way because things were wide open and we went in and we took it like The Barbarians at the gate and we transformed whatever we could but they caught us Reggie bull was a uh we threw everything we knew into it not knowing",
+          "start": 698.1,
+          "duration": 31.74
+        },
+        {
+          "text": "how it was going to be received we understood that people didn't like him and even the crew turned out I didn't know until later why am I making a film about this guy he's a horror and but we stayed with it this man may be this way but still is a human being he's got a",
+          "start": 714.54,
+          "duration": 27.359
+        },
+        {
+          "text": "heart he's got a soul by the end of it he finds some kind of peace with himself and maybe the others around him I think I was going there to try to find peace in myself that year there were I think four more films coming out about boxing the the main event with Barbra Streisand",
+          "start": 728.16,
+          "duration": 29.941
+        },
+        {
+          "text": "prize fighter with Tim Conway Matilda the boxing kangaroo and Rocky II also and they're all in color that's when I realized that we should go black and white and also the black and white would work a distinctively different from the other boxing films that were being made",
+          "start": 742.62,
+          "duration": 27.6
+        },
+        {
+          "text": "comedies and and Rocky II and also um Irwin Winkler pointed out to the studio that the films that were made in black and white up to that point in the 70s were Paper Moon and Lenny and they were hits I also thought too that the boxing scenes had to be very powerful the rest",
+          "start": 756.3,
+          "duration": 31.7
+        },
+        {
+          "text": "of the film anything else was concentrated and almost meditative state in terms of framing holding those people in that frame but the boxing scenes would be like you're on another planet primarily it was based on I came up with the idea what I was",
+          "start": 772.74,
+          "duration": 30.16
+        },
+        {
+          "text": "doing Last Waltz on the stage with the band and I watching how the band worked the ballet sequences from red shoes where you don't really necessarily go head to toe we see the dancer instead you see what's inside the mind of the",
+          "start": 787.74,
+          "duration": 30.24
+        },
+        {
+          "text": "dancer what's in the mind what's the perception of the fighter in the ring they don't even know where they are sometimes The Wolf of Wall Street [Music] again like Raging Bull I didn't want to",
+          "start": 803.16,
+          "duration": 23.857
+        },
+        {
+          "text": "make it but I had to find my own way in it and a lot of it to do with style the style I felt originally was more like Goodfellas I had done it and I did it again in Casino what more could I bring to it and we found a way and that was ultimately through his character and the",
+          "start": 823.2,
+          "duration": 30.0
+        },
+        {
+          "text": "whole idea of untethered capitalism this is the spirit of it anything goes because you're making money doesn't matter that's a little bit that way too in casino but Casino has organized crime it's a different thing this is organized another way and so",
+          "start": 837.66,
+          "duration": 24.84
+        },
+        {
+          "text": "with that understanding that I was able to play with the structure of it and make it right away first three or four minutes of the film you can see right away this is going to be something unexpected like every other shot something shocking going on in a way or",
+          "start": 850.56,
+          "duration": 28.979
+        },
+        {
+          "text": "supposedly shocking in order to do that you have to have somebody who's playing that part be prepared to do anything and he did I would provoke him he provoked me would go further if you read the book we could have gone even further [Music]",
+          "start": 864.959,
+          "duration": 30.74
+        },
+        {
+          "text": "Mean Streets fine keep your mouth shut and you told me not in front of this I was living in the late 50s into the early 60s down in my old neighborhood of what they used to call Little Italy at that time it really was a Little Italy",
+          "start": 879.839,
+          "duration": 29.422
+        },
+        {
+          "text": "families were loving but you know was it was the tenements and it was a not a really good place and they were good people but at the same time it was steeped in a kind of organized crime Mean Streets comes out of that violence which I missed by chance really Now's",
+          "start": 898.98,
+          "duration": 29.96
+        },
+        {
+          "text": "the Time I was with these people in this car I told my friends with me we're in the back seat it's two o'clock in the morning this is nonsense let's go home yeah yeah okay let's go home car drove off and they got",
+          "start": 915.12,
+          "duration": 22.0
+        },
+        {
+          "text": "shot had to do with a lot of discreet power so to speak a sense of certain rules that the underworld works with and a lot of it had to do with and My Brother's Keeper it also reflects my father and his youngest brother my father was one",
+          "start": 926.16,
+          "duration": 28.619
+        },
+        {
+          "text": "of eight children his youngest brother was always in jail always in trouble and my father was always trying to broker uh situations where he wouldn't get killed there's about 30 dollars it's always got on a Michael where's the rest yeah where's the rest",
+          "start": 939.959,
+          "duration": 29.921
+        },
+        {
+          "text": "the extent to which one is your real brother or one is such a close friend that you put yourself on the line is something that's really important to me in terms of how you live a life and try to live a good moral life but you're in a world",
+          "start": 956.519,
+          "duration": 32.16
+        },
+        {
+          "text": "that is completely corrupt you don't make up for your sins in the church you do it in the streets you do it at home and that's that's the essence of Mean Streets that's what I talked about in the beginning you know you can go to church all you want but the real acting",
+          "start": 972.899,
+          "duration": 29.761
+        },
+        {
+          "text": "out of your morality is outside the church it's outside the building of the church it's in the home it's with your friends and that all the rest is an illusion almost five years old in New York it was late 40s my we had a television 16 inch on Friday nights",
+          "start": 987.06,
+          "duration": 30.239
+        },
+        {
+          "text": "there was a an Italian film shown for the Italian-American community and my grandparents would come over and uh they didn't speak English only Sicilian and my mother and father my uncles and we get around this little TV set and we see The Bicycle Thief it had these words in",
+          "start": 1002.779,
+          "duration": 30.661
+        },
+        {
+          "text": "the bottom the people that were speaking in the film they were speaking the same way as my family those Italian films were more than Cinema they were a form of Truth that I related to because it it somehow had something to do with who I who I am and so no matter what I shoot",
+          "start": 1018.32,
+          "duration": 42.439
+        },
+        {
+          "text": "uh it isn't directly saying oh we're going to do a shot now from The Bicycle Thief no it's the emotional and and uh psychological impact of experiencing that film when I was five or six in the room with these people who lived it the Irishman I don't I don't know it",
+          "start": 1038.74,
+          "duration": 37.761
+        },
+        {
+          "text": "sounds funny it stops and starts and loses power if I can give me a hand over the years seeing the the difference in the technology one of the key things to give us the energy to make our first films features was John cassavetes doing",
+          "start": 1060.08,
+          "duration": 29.88
+        },
+        {
+          "text": "shadows in 16 millimeter which came from France with the eclair camera so all of that happening at that time made it that we could make a film ourselves we didn't have to have the studio behind us with giant lights and giant Mitchell bnc's I've kind of stayed pretty much",
+          "start": 1075.02,
+          "duration": 28.2
+        },
+        {
+          "text": "traditional we edit now with the computer but I don't really know how to do that Thelma does it if I can utilize the new technology for the kind of story I want to make why not go there and so in the case of the Irishman De Niro and I had this idea for",
+          "start": 1089.48,
+          "duration": 30.36
+        },
+        {
+          "text": "a long time and again I didn't want to do another gangster genre part of the problem was flashbacks and by the time we got to do it he was too old to play his younger self and they said Well a different actor and I said what's then what's not like us",
+          "start": 1104.48,
+          "duration": 27.78
+        },
+        {
+          "text": "making a film together what's the point and so we were talking about this idea of uh youthification and Pablo Herman of ilm was with us doing CGI or background material for us in Taiwan where we're doing silence and he came up and he said I think I can do it what I have seen is",
+          "start": 1118.94,
+          "duration": 34.02
+        },
+        {
+          "text": "that people have to wear golf balls on their faces you can't have a scene with Joe Pesci and Bob De Niro and Al Pacino whatever they all have golf balls on their faces and they're the kinds of actors that that kind of thing for this kind of movie it doesn't work and",
+          "start": 1135.5,
+          "duration": 25.92
+        },
+        {
+          "text": "eventually by the end of the shoot of Silence he had it and we did a test with Bob and we we're De Niro and we tried it and we all felt strongly about it the drawback was the financially because it was extremely expensive and also length of time it was an extra five",
+          "start": 1148.88,
+          "duration": 31.26
+        },
+        {
+          "text": "to six months in the post-production that's when Netflix came in and really helped us it's not just CGI we accept it if a person puts on a fat suit or you paint their hair white or they're supposed to be old but what if you do it digitally",
+          "start": 1164.6,
+          "duration": 30.84
+        },
+        {
+          "text": "it's like makeup it's just taking that leap of of saying oh no it's got to be what the old way to this is this is now the transformation into a new way silence [Music] things that happen when I was making",
+          "start": 1179.48,
+          "duration": 36.039
+        },
+        {
+          "text": "Last Temptation that took me only up to a certain point I found myself wanting more and I found it in silence and when I read the book I was in Japan actually it was 1989 and I tried to write a version of the script with my friend Jay Cox by 1990 92 but I didn't get it and",
+          "start": 1203.66,
+          "duration": 35.341
+        },
+        {
+          "text": "it took me years another 10 12 years to live a life and experience with different exploration going making kundun for example on the Dalai Lama all of these things and finally by around 2006 2007 I was able to put the script together I felt that we we could do it",
+          "start": 1221.36,
+          "duration": 34.26
+        },
+        {
+          "text": "too many technical business problems and almost made it impossible to get made but eventually it did Ong Lee's group helped us start shooting Taiwan you know a special experience for the entire crew making the film The locations the people the",
+          "start": 1238.22,
+          "duration": 30.54
+        },
+        {
+          "text": "scenes themselves what the Japanese actors I mean it was really a kind of spiritual journey kill us the flower Moon their time is over it's taken six years we didn't intend to take it six years but I was making the",
+          "start": 1254.24,
+          "duration": 32.9
+        },
+        {
+          "text": "Irishman and then there was covet was given the book and read the book and I was very excited by that I didn't quite know how to go about it Eric Roth and I went through a process of a few years of pulling the script together and the story and there's some wonderful things",
+          "start": 1272.24,
+          "duration": 27.54
+        },
+        {
+          "text": "and we got it to a point where we said let's sit down and read this thing I got some friends we sat down Leah was there Eric it's good but there was something about it that I felt we've been there before and that was the idea of a police procedural and the character he was",
+          "start": 1286.22,
+          "duration": 31.98
+        },
+        {
+          "text": "supposed to play Tom white was a character that is straight laced you know very strong very proper guy and so we thought about it for another week and a half and then Leo came to me so where's the real he came to me where's the real heart of this picture I said",
+          "start": 1301.94,
+          "duration": 24.36
+        },
+        {
+          "text": "the heart is with this guy Earnest and his wife Molly the only problem is we don't know anything about an artist everybody else who've got tons of material on we don't know anything about him so we came up with the idea of what if instead of coming from the outside in",
+          "start": 1314.12,
+          "duration": 21.539
+        },
+        {
+          "text": "what if we go from the inside out then I said oh yeah the story really is the relationship of Ernest and Molly and the Betrayal I said the only problem there is that it's a creative problem which is you take the script you turn inside out and how much a procedural do you need",
+          "start": 1325.039,
+          "duration": 24.901
+        },
+        {
+          "text": "not very much it started to come together it gave me the direction that I felt comfortable in the other way I've seen the kind of moves I enjoy doing and imagine doing horses and running Western tropes in a way they call it I would love that but",
+          "start": 1337.64,
+          "duration": 25.2
+        },
+        {
+          "text": "I've seen and they did it so much better everybody else does it better so here though you're in the house and there's a husband and wife and this guy is dodgy he's being manipulated by this sort of Angel of Death his uncle [Music]",
+          "start": 1350.36,
+          "duration": 31.919
+        },
+        {
+          "text": "okay you got a nice color scheme what color would you say that is my color we had been working on the casting for quite a while including uh indigenous people says I have somebody I want you to see but then I saw the scene from certain women Kelly reichardt's",
+          "start": 1368.0,
+          "duration": 31.781
+        },
+        {
+          "text": "film I thought she was wonderful and after covid we got to meet I was struck by the uh a whole Visage the face and her intelligence one could see that there's a lot going on in her face but her not doing very much which is perfect for film acting also the intelligence",
+          "start": 1385.82,
+          "duration": 37.38
+        },
+        {
+          "text": "and level of of understanding and coming from indigenous people and being an activist we could learn from her which is what we did and we all worked together myself her and Leo very very closely",
+          "start": 1403.58,
+          "duration": 28.36
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=8szAkDLWp-M",
+      "type": "generated",
+      "content": "- The video discusses various films directed by Martin Scorsese, including Taxi Driver, Gangs of New York, Goodfellas, The Irishman, and more.\n- Scorsese talks about the inspiration behind his films, such as his connection to the character of Travis Bickle in Taxi Driver and his personal experiences growing up in New York City.\n- He discusses the importance of capturing the psychological and emotional state of characters in his films.\n- Scorsese mentions the use of certain techniques, such as keeping the audience off balance and using black and white cinematography in Raging Bull.\n- He talks about working with actors like Robert De Niro, Leonardo DiCaprio, and Joe Pesci, and the creative collaborations they had.\n- Scorsese discusses the challenges and successes he faced in making his films, including the use of CGI in The Irishman and the development of the script for Killers of the Flower Moon.\n- He also mentions his admiration for certain filmmakers and films, such as John Cassavetes' Shadows and Vittorio De Sica's The Bicycle Thief.\n- Scorsese highlights the importance of storytelling and capturing the essence of a character's journey in his films."
     }
   ],
   "filename": "1696537960-youtube"
