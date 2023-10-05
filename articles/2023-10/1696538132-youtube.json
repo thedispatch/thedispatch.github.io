@@ -2906,6 +2906,132 @@
       "source_url": "https://www.youtube.com/watch?v=8szAkDLWp-M",
       "type": "generated",
       "content": "- The video discusses various films directed by Martin Scorsese, including Taxi Driver, Gangs of New York, Goodfellas, The Departed, Raging Bull, The Irishman, Silence, and Killers of the Flower Moon.\n- Scorsese talks about his inspirations for each film, such as literature, personal experiences, and other movies.\n- He discusses the challenges and creative decisions he made for each film, including casting choices and visual style.\n- Scorsese emphasizes the importance of storytelling and character development in his films.\n- He also discusses the impact of technology on filmmaking, such as CGI and digital editing.\n- Scorsese talks about his collaboration with actors like Robert De Niro, Leonardo DiCaprio, and Joe Pesci.\n- He mentions the themes and social issues explored in his films, such as organized crime, morality, and spirituality.\n- Scorsese discusses the lengthy process of developing and making some of his films, including the challenges and creative decisions involved."
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=Z6nkEZyS9nA",
+      "type": "transcript",
+      "content": [
+        {
+          "text": "hello is that dr pi? yeah speaking, can you get us\u00a0\nsome transcripts from youtube? transcripts? yeah\u00a0\u00a0 okay I can do that! we will be awfully grateful\u00a0\nif you can do this lovely job all right thank you hello everybody in this video we're going\u00a0\nto look at how to get the transcript of a\u00a0\u00a0 youtube video automatically so we're going to be\u00a0\nusing python code to do this so let's look at how\u00a0\u00a0 we're going to get about it so firstly we want\u00a0\nto get the id of the youtube video so the id is\u00a0\u00a0 the last part of the url of the video that you're\u00a0\nwatching that you want to get the transcript from\u00a0\u00a0 next we want to uh we want to add the id to our\u00a0\npython code and once we've done that we can then",
+          "start": 0.08,
+          "duration": 54.32
+        },
+        {
+          "text": "pass the output and we can save it to a text\u00a0\nfile or we can do some NLP with it if we want so\u00a0\u00a0 we've all got our own reasons for passing and\u00a0\nfor actually extracting the transcript anyway um\u00a0\u00a0 obviously there's manual ways of doing this\u00a0\nand there are browser extensions but we want\u00a0\u00a0 to do this programmatically and also we\u00a0\nmay want to do it for many many videos\u00a0\u00a0 so you don't want to sit there keep clicking\u00a0\nright clicking copy and pasting and so on so as i said the part of the i part\u00a0\nof the url which represents the id\u00a0\u00a0 which you will need to get is this so after the\u00a0\nequals and there's a little gotcha actually which",
+          "start": 62.16,
+          "duration": 44.88
+        },
+        {
+          "text": "i'll show you in the code in a minute where\u00a0\nif it begins if it begins with a backslash\u00a0\u00a0 so that's what you need to do and once you've got\u00a0\nthe video id then it's time to install pip install\u00a0\u00a0 youtube dash transcript dash api and if you're\u00a0\ndoing it the normal old-fashioned way pip install\u00a0\u00a0 youtube underscore transcript underscore api or\u00a0\nif you're using conda conda install c conda dash\u00a0\u00a0 forge youtube dash transcript dash api so when you\u00a0\ndo it on conda you've just got hyphens instead of\u00a0\u00a0 underscores this is the conda page it was last\u00a0\nupdated three months ago so it's very recent\u00a0\u00a0 it's quite a new project actually only 248\u00a0\ndownloads anyway when you've installed it",
+          "start": 110.72,
+          "duration": 54.88
+        },
+        {
+          "text": "or when you want to install it using conda you'll\u00a0\nget a screen like this and it'll prompt you that\u00a0\u00a0 you need to uh update or install the following\u00a0\npackages ca certificates certified and conda\u00a0\u00a0 and just say yes to agree to these they're quite\u00a0\nsmall um right this is the this is a screenshot of\u00a0\u00a0 the of the uh the the this is a screenshot of the\u00a0\ndocumentation couldn't get my words out then not\u00a0\u00a0 getting seen honestly it's just uh like a coffee\u00a0\nright from youtube underscore transcript api\u00a0\u00a0 import use youtube transcript api so just copy and\u00a0\npaste that from the documentation then this is the\u00a0\u00a0 good bit youtube youtube transcript api dot get\u00a0\nunderscore transcript and then a brackets video id",
+          "start": 167.92,
+          "duration": 54.64
+        },
+        {
+          "text": "so there's no um there's no quotes or anything for\u00a0\nthat so just paste it straight into the brackets\u00a0\u00a0 and if you were to copy what they've shown\u00a0\nhere you would actually just get a large\u00a0\u00a0 um large python dictionary insert or multiple\u00a0\npython dictionaries inside the list so\u00a0\u00a0 in a minute i'll show you some code and\u00a0\ni'll show you how to actually extract that\u00a0\u00a0 if you want different languages you\u00a0\ncan specify different languages so\u00a0\u00a0 what it does is actually checks in sequence so\u00a0\nit will check if you put d e then it will check\u00a0\u00a0 for a german transcript first and then english\u00a0\nand so on and so on so you can put many many",
+          "start": 223.12,
+          "duration": 37.28
+        },
+        {
+          "text": "different flavors there and uh yeah it will\u00a0\ntry and get the one that you want in sequence\u00a0\u00a0 in order of priority um right so this is some\u00a0\ncode this is what we will get when we run it so\u00a0\u00a0 this is just a little taster and if you like\u00a0\nthis code or if you like the projects rather\u00a0\u00a0 um then donate if possible to jonas de poire at\u00a0\nweb dot d e uh go to the go to the documentation\u00a0\u00a0 and you will see his donate button there and\u00a0\nif you like what i do then don't forget to\u00a0\u00a0 check out red and green which is my website and\u00a0\nthere's links to various different things we got\u00a0\u00a0 a bit of network automation my github page my\u00a0\nblog where i just put a few technical notes",
+          "start": 263.2,
+          "duration": 47.52
+        },
+        {
+          "text": "rather than more than a few even data\u00a0\nextraction challenges using jquery\u00a0\u00a0 and working with json and apis and there we\u00a0\ngo so if you'd like to see some actual code\u00a0\u00a0 okay so we've done the conda install we've\u00a0\ninstalled youtube transcript api if you want to do\u00a0\u00a0 it with pip then you don't need to do the cond a\u00a0\nbit so this is where we do the import the module\u00a0\u00a0 from youtube transcript api import youtube\u00a0\ntranscript api then um just a quick note here\u00a0\u00a0 you can have a list of just a couple of settings\u00a0\nso as i mentioned just now this is a note about\u00a0\u00a0 the language settings and um also with regard to\u00a0\nthe video id if the video id starts with a hyphen",
+          "start": 312.64,
+          "duration": 51.6
+        },
+        {
+          "text": "you'll have to mask the hyphen using the backslash so yeah if it's got a hyphen at the\u00a0\nstart you just need to put a backslash otherwise\u00a0\u00a0 the uh the code will think that it's an\u00a0\nargument or think it's an argument name\u00a0\u00a0 so the main code if you're ready to see\u00a0\nthat well i've already got an extracted\u00a0\u00a0 video id so all i've done is just found a\u00a0\nvideo i found one that had subtitles and\u00a0\u00a0 if it doesn't have subtitles you're getting\u00a0\nthat or you won't get an error but you'll\u00a0\u00a0 get a notification saying that it it's not\u00a0\npossible to get subtitles for this video",
+          "start": 368.56,
+          "duration": 35.04
+        },
+        {
+          "text": "so the main code out ls so that's going to be\u00a0\nthe list which captures the output of all of the\u00a0\u00a0 subtitles so tx equals youtube transcripts\u00a0\napi dot get trans get underscore transcript\u00a0\u00a0 and there we can see um the parameters that you\u00a0\npass to it so you can pass to the video id the\u00a0\u00a0 languages and it can also cope with proxies and\u00a0\ncookies the default is no proxy and no cookies\u00a0\u00a0 so the default is also english if you don't\u00a0\nspecify languages either so i could actually\u00a0\u00a0 leave that out well i'm just for demonstration\u00a0\npurposes i'm going to leave d e in here\u00a0\u00a0 and you'll see what happens because when d\u00a0\ne is not available it will then just go off",
+          "start": 409.36,
+          "duration": 45.68
+        },
+        {
+          "text": "and get english um be aware that these are two\u00a0\nletter country codes uh what was i using the other\u00a0\u00a0 day something was using three-letter country\u00a0\ncodes i think that may have been i don't know\u00a0\u00a0 was it ginger something like that not not ginger\u00a0\nitself but uh something i was doing with ginger\u00a0\u00a0 um for i in tx so for so the object which youtube\u00a0\ntranscript api dot gets i've just called tx so\u00a0\u00a0 for each item in that object so it's basically\u00a0\nreturning a list for each item in that list\u00a0\u00a0 um we want to do this so this is the bit\u00a0\nthat you wouldn't see on the documentation\u00a0\u00a0 and this is the bit that actually picks out the\u00a0\ntext if you don't do this you'll end up with",
+          "start": 458.08,
+          "duration": 47.76
+        },
+        {
+          "text": "a json dictionary and you'll end up with start\u00a0\ntimes end times um and so on it won't provide you\u00a0\u00a0 with what you need if you're planning on working\u00a0\nwith just the actual text for instance if you're\u00a0\u00a0 about to do something with nlp um maybe it's not\u00a0\nsentiment analysis well maybe sentiment analysis\u00a0\u00a0 um you may be creating a bag of words analyzing\u00a0\npart of speech etc etc so uh what we've got here\u00a0\u00a0 is text so we're just like putting one line of\u00a0\ntext and then we're going to append it to our list\u00a0\u00a0 and um also what i'm going to do is open a\u00a0\nnew file or append and then i'm going to write\u00a0\u00a0 the text from the current line as we go\u00a0\nthrough the video so obviously the video runs",
+          "start": 506.72,
+          "duration": 53.76
+        },
+        {
+          "text": "that way because of the timings so as we go\u00a0\nthrough time we keep getting a new line a new\u00a0\u00a0 line a new line new line new line so and that's\u00a0\nwhy i've put new line here without the new line\u00a0\u00a0 you just end up with a massive long you just\u00a0\nimagine 40 minute video just with one line of text\u00a0\u00a0 not good right then all i've done in it just\u00a0\nfor um a little bit of a bonus i've added in\u00a0\u00a0 chrome sklearn feature extraction\u00a0\njust added in account vectorizer\u00a0\u00a0 and it converts a collection of text\u00a0\ndocuments to a matrix of token accounts\u00a0\u00a0 and yeah from here you could go and do\u00a0\nyour own thing with um yeah nlp and so on",
+          "start": 563.76,
+          "duration": 39.04
+        },
+        {
+          "text": "you could even reject the video if it didn't\u00a0\nhave a certain phrase so you could go off\u00a0\u00a0 and get subtitles from many many videos\u00a0\nand rather than watching um 20 videos on climate change you could get the\u00a0\n20 transcripts and then you could\u00a0\u00a0 you could just search each of those\u00a0\ntranscripts for certain words such as\u00a0\u00a0 polar bear maybe only three of those videos have\u00a0\ngot the word polar bear so rather than watching\u00a0\u00a0 20 videos you then know that you've only got to\u00a0\nwatch those three videos so this isn't all about\u00a0\u00a0 hacking or web scraping or doing anything naughty\u00a0\nit can be used purely to save your time and",
+          "start": 608.32,
+          "duration": 42.4
+        },
+        {
+          "text": "i know youtube would probably like you to watch\u00a0\n20 20 videos that all last an hour long but um\u00a0\u00a0 i think they would still be happy if you're only\u00a0\nwatching three videos they're an hour long each\u00a0\u00a0 you know three hours is better than nothing um and\u00a0\nyou probably wouldn't sit down and watch 20 hours\u00a0\u00a0 worth of videos anyway so you then what would\u00a0\nyou do i don't know you'd probably just go off\u00a0\u00a0 and read a book so with that all that being said\u00a0\ni think it's time to actually demonstrate the code\u00a0\u00a0 so what i'm just going to do is just i'll just\u00a0\ncomment that comment out this bit for starters\u00a0\u00a0 and what we'll do is we will just run the main\u00a0\ncode which should just generate us a text file",
+          "start": 656.56,
+          "duration": 40.16
+        },
+        {
+          "text": "so if i just bring up the sidebar\u00a0\nand you see i've already run it once\u00a0\u00a0 so let's just delete that text\u00a0\nfile and um yeah let's run it so it's run and that was when i um run my code within\u00a0\nvs code it sends all this output to the screen\u00a0\u00a0 um and it runs successfully no\u00a0\nerror message and i know it runs\u00a0\u00a0 successfully because i've got that op\u00a0\ntext file back and let's have a look so hi everyone welcome to this lecture series\u00a0\non osi i file storage service and in this\u00a0\u00a0 particular module we're going to introduce\u00a0\nthe file storage service and look at it",
+          "start": 697.36,
+          "duration": 37.52
+        },
+        {
+          "text": "some of its characteristics my name is ryan i'm\u00a0\npart of the oracle cloud infrastructure team\u00a0\u00a0 so that's pretty good i mean there's\u00a0\nvery few kind of um errors there\u00a0\u00a0 last week i was adding subtitles to my videos\u00a0\nabout ginger and that's obviously j-i-n-j-a and\u00a0\u00a0 yeah the subtitles were just calling it ginger as\u00a0\nin g-i-n-g-e-r and had to change that everywhere\u00a0\u00a0 ginger obviously being a plant or a flavor flavor\u00a0\nof biscuits right so that is the output file which\u00a0\u00a0 um yeah okay so so far so good before we run let's\u00a0\njust delete that and i'll run that on it let's\u00a0\u00a0 just uh test it on them on a different come on\u00a0\ndelete i've made the font really big and it's um",
+          "start": 742.24,
+          "duration": 52.64
+        },
+        {
+          "text": "made it a bit harder to do\u00a0\nwhat i normally do so um right okay so let's just get um\u00a0\nanother youtube video youtube and anyone got any requests um tell you what let's do one of my videos so if\u00a0\nyou let's just um there's two ways of doing it\u00a0\u00a0 so what the an easy way to actually get it\u00a0\nis just to click share and then just go in\u00a0\u00a0 here and that's the video id there so um i said\u00a0\nit was easy there you go right right click copy",
+          "start": 801.28,
+          "duration": 38.88
+        },
+        {
+          "text": "and um let's replace what i had in here\u00a0\nbefore with my new video id so there we go\u00a0\u00a0 and this should work because i have done\u00a0\nthe subtitles for it so if we run it may take a while wow that was only about\u00a0\nwhat two seconds and um wow because\u00a0\u00a0 that's interesting i've actually enabled german\u00a0\nsubtitles on my on my most recent videos and\u00a0\u00a0 it's actually gone off and got the german and\u00a0\ni think there's some characters missing from\u00a0\u00a0 the whether it is i think it's\u00a0\nprobably missing the on lives\u00a0\u00a0 so you you've got the german translation there\u00a0\nbecause it tries german first uh if i take",
+          "start": 855.04,
+          "duration": 42.72
+        },
+        {
+          "text": "out german from there it will just obviously\u00a0\njust get the english so i'm gonna delete that\u00a0\u00a0 run it one more time just to\u00a0\nprove that it does multi language\u00a0\u00a0 and um well it's even got i don't\u00a0\nknow why it's putting this in here oh it's not liking the new line characters is it maybe don't know that's um in fact let's just open that with uh",
+          "start": 902.72,
+          "duration": 23.84
+        },
+        {
+          "text": "let's just open that with a different text editor\u00a0\nshall we i'm just going to open that with um let's just open it with word pud\u00a0\u00a0 this is uh i'm back on the windows machine\u00a0\nbecause i'm i've been having some issues with\u00a0\u00a0 flickering on the screen using um my linux mint\u00a0\nand obs so here we go yeah hello everybody today\u00a0\u00a0 we're looking at how to scrape videos content\u00a0\nfrom youtube so what i mean is we're going to\u00a0\u00a0 download the video so yeah technically you could\u00a0\ncall it scraping if you want or scrapping if\u00a0\u00a0 yeah don't get me started on scrapping\u00a0\nso um this is just how it's rendered in",
+          "start": 943.28,
+          "duration": 31.52
+        },
+        {
+          "text": "vs code so don't worry about that it opens\u00a0\nfine in a text editor a normal text editor\u00a0\u00a0 so there we go and um right who wants to just run\u00a0\na little bit of natural language process well it's\u00a0\u00a0 not we're not really doing anything clever all\u00a0\nwe're just doing is we're running count vectorizer\u00a0\u00a0 which will um creates vectorizer\u00a0\nobject and then it prints you\u00a0\u00a0 identified unique words along with their indices\u00a0\nso um let's just run that and that'll print to\u00a0\u00a0 the screen so there we go that's all the\u00a0\nunique words uh with their indices so if we wanted we could check this text for\u00a0\na certain word um we could check it for",
+          "start": 983.44,
+          "duration": 48.96
+        },
+        {
+          "text": "scraping scrape scraping so there we go i hope this has been interesting um\u00a0\nthe whole reason i made this video was because i\u00a0\u00a0 had a subscriber ask if following on from\u00a0\nthe previous videos where i've extracted\u00a0\u00a0 text from uh from the images created from uh\u00a0\nstills taken from the video the subscriber said\u00a0\u00a0 could i extract the transcripts programmatically\u00a0\nand obviously this is it this is the solution so youtube transcript api and the benefit or\u00a0\nthe beauty of it is you don't even need to",
+          "start": 1042.96,
+          "duration": 36.0
+        },
+        {
+          "text": "register for an api key and an auth token and\u00a0\nso on this is this is usable on any video so um\u00a0\u00a0 yeah obviously youtube haven't um blocked\u00a0\nit or anything so um i know there's a bit\u00a0\u00a0 about proxies and so on but um for all intents and\u00a0\npurposes that's that's not needed here not in this\u00a0\u00a0 example or not from the uk so perhaps if you're\u00a0\ntrying to access this from china or somewhere\u00a0\u00a0 maybe you need to use proxy i don't know um but\u00a0\nthere we go so hopefully you've enjoyed this\u00a0\u00a0 and found it useful don't forget to as usual\u00a0\nsubscribe thumbs up um because of the algos thank you",
+          "start": 1087.6,
+          "duration": 60.96
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=Z6nkEZyS9nA",
+      "type": "generated",
+      "content": "- The video demonstrates how to automatically get the transcript of a YouTube video using Python code.\n- The video explains the process of obtaining the video ID from the URL and adding it to the code.\n- The speaker mentions the benefits of programmatically extracting transcripts instead of using manual methods or browser extensions.\n- The necessary package, \"youtube-transcript-api,\" is introduced, and installation instructions are provided for both pip and conda.\n- The code snippet for obtaining the transcript using the video ID is shown.\n- The speaker mentions the option to specify different languages for the transcript.\n- The video provides a sample code and demonstrates how to extract and save the transcript to a text file.\n- Additional features, such as using NLP techniques like sentiment analysis or word analysis, are mentioned.\n- The speaker emphasizes that the code can be used to save time and mentions the possibility of analyzing multiple video transcripts for specific words or phrases.\n- The video concludes with a demonstration of running the code and showcasing the generated transcript."
     }
   ],
   "filename": "1696538132-youtube"
