@@ -497,37 +497,38 @@
         {
           "fact": "including 'Taxi Driver,' 'Gangs of New York,' 'Goodfellas,' 'The Departed,' 'Raging Bull,' 'The Irishman,' 'Silence,' and 'Killers of the Flower Moon'",
           "check": true,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=663",
-          "source_text": "want you to lay me out go ahead you're sure all right the 70s Studio system changed a great deal and the week that film was released was the same week from the same studio and Michael tremino's Heaven's gate opened that A Raging Bull Apocalypse Now",
-          "source_start": 663.18,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1350",
+          "source_text": "I've seen and they did it so much better everybody else does it better",
+          "source_start": 1350.36,
           "match_text": "By: The Dispatch\n\nIn a recent video, legendary filmmaker Martin Scorsese opens up about the inspiration, challenges, and creative process behind his iconic films, including \"Taxi Driver,\" \"Gangs of New York,\" \"Goodfellas,\" \"The Departed,\" \"Raging Bull,\" \"The Irishman,\" \"Silence,\" and \"Killers of the Flower Moon.\"",
-          "match_start": 110
+          "match_start": 110,
+          "source_index": 22194
         },
         {
           "fact": "collaborations with renowned actors such as Robert De Niro, Leonardo DiCaprio, and Joe Pesci",
           "check": true,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=226",
-          "source_text": "De Niro we were acquainted with each other when we was 16 years old so because of my relationship with him going back to when we were 16.",
-          "source_start": 226.07999999999998,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=285",
+          "source_text": "we convinced Daniel day to get into it as a Bill the Butcher",
+          "source_start": 285.9295,
           "match_text": "collaborations with renowned actors such as Robert De Niro, Leonardo DiCaprio, and Joe Pesci",
           "match_start": 451,
-          "source_index": 3727
+          "source_index": 4803
         },
         {
           "fact": "citing the use of CGI and youthification in 'The Irishman'",
           "check": true,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1104",
-          "source_text": "De Niro and I had this idea for a long time",
-          "source_start": 1104.48,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1156",
+          "source_text": "we tried it and we all felt strongly about it",
+          "source_start": 1156.74,
           "match_text": "He also highlights the crucial role of technology and special effects in his films, citing the use of CGI and youthification in 'The Irishman.'",
           "match_start": 637,
-          "source_index": 18054
+          "source_index": 18991
         },
         {
           "fact": "Born and raised in New York City",
           "check": null,
           "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1272",
-          "source_text": "I was making the Irishman and then there was covet",
+          "source_text": "I was making the Irishman",
           "source_start": 1272.24,
           "match_text": "Born and raised in New York City",
           "match_start": 1116,
@@ -536,70 +537,72 @@
         {
           "fact": "the collaborative nature of filmmaking",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1294",
-          "source_text": "we sat down Leah was there Eric it's good but there was something about it that I felt we've been there before",
-          "source_start": 1294.08,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=8",
+          "source_text": "we were all out in LA and he introduced me to Paul Schrader Schrader wrote Taxi Driver",
+          "source_start": 8.6395,
           "match_text": "the collaborative nature of filmmaking",
           "match_start": 1248,
-          "source_index": 20959
+          "source_index": 241
         },
         {
           "fact": "working closely with actors, writers, and other crew members",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1294",
-          "source_text": "we sat down Leah was there Eric it's good but there was something about it that I felt we've been there before",
-          "source_start": 1294.08,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=8",
+          "source_text": "we were all out in LA and he introduced me to Paul Schrader",
+          "source_start": 8.6395,
           "match_text": "working closely with actors, writers, and other crew members",
           "match_start": 1316,
-          "source_index": 20959
+          "source_index": 241
         },
         {
           "fact": "financial constraints and technical difficulties",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1082",
-          "source_text": "we didn't have to have the studio behind us with giant lights and giant Mitchell bnc's",
-          "source_start": 1082.25,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=33",
+          "source_text": "I didn't have enough cachet as they say at that time to make the picture but then they saw the rough cut of Mean Streets and they changed their mind especially when they saw De Niro in it and so they said for the two of you we could probably get this film made",
+          "source_start": 33.96,
           "match_text": "financial constraints and technical difficulties",
           "match_start": 1559,
-          "source_index": 17714
+          "source_index": 614
         },
         {
           "fact": "ever passionate about his craft",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=54",
-          "source_text": "we were thinking in terms of the character and his loneliness and his acting out",
-          "source_start": 54.3595,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=91",
+          "source_text": "I felt that when he made that phone call it was so painful we shouldn't witness it",
+          "source_start": 91.86,
           "match_text": "ever passionate about his craft",
           "match_start": 1625,
-          "source_index": 984
+          "source_index": 1642
         },
         {
           "fact": "expressing admiration for fellow filmmakers",
           "check": true,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=391",
-          "source_text": "and insisted I make it every shot may feel like a documentary but the camera moves everything you see it's all clearly it's all there in the script we had to Stage bits of action Joe Reedy did and Michael ballhouse my cameraman they worked out all the background",
-          "source_start": 391.979,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1385",
+          "source_text": "I saw the scene from certain women Kelly reichardt's film I thought she was wonderful",
+          "source_start": 1385.82,
           "match_text": "expressing admiration for fellow filmmakers",
-          "match_start": 1658
+          "match_start": 1658,
+          "source_index": 22632
         },
         {
           "fact": "creating some of the most influential films in cinema history",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=40",
-          "source_text": "they saw the rough cut of Mean Streets and they changed their mind especially when they saw De Niro in it and so they said for the two of you we could probably get this film made",
-          "source_start": 40.679500000000004,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=91",
+          "source_text": "I felt that when he made that phone call it was so painful we shouldn't witness it so the camera should track away but not pan away",
+          "source_start": 91.86,
           "match_text": "creating some of the most influential films in cinema history",
           "match_start": 1975,
-          "source_index": 696
+          "source_index": 1642
         },
         {
           "fact": "In a recent video, esteemed director Martin Scorsese provides a rare glimpse into his creative process, discussing the inspiration and challenges behind his renowned films, including 'Taxi Driver,' 'Gangs of New York,' 'Goodfellas,' 'The Departed,' 'Raging Bull,' 'The Wolf of Wall Street,' 'Mean Streets,' 'Silence,' and 'Killers of the Flower Moon.'",
           "check": true,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=378",
-          "source_text": "got back I owed Warner Brothers Goodfellas or became Goodfellas it was called Wise Guys at the time I didn't really almost didn't want to make it it was Michael Powell the director of The Red Shoes co-director I should say and other masterpieces who read the script",
-          "source_start": 378.78,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1229",
+          "source_text": "and finally by around 2006 2007 I was able to put the script together",
+          "source_start": 1229.79,
           "match_text": "Scorsese candidly discusses the challenges and creative decisions involved in making each film, exploring themes such as organized crime, morality, and spirituality. Despite the obstacles, including financial constraints and technical difficulties, Scorsese emphasizes his unwavering passion for filmmaking.",
-          "match_start": 1145
+          "match_start": 1145,
+          "source_index": 20033
         },
         {
           "fact": "He delves into the casting process, including working with indigenous actress Lily Gladstone, and the importance of finding the right actors for the roles.",
@@ -624,42 +627,142 @@
         {
           "fact": "The video explains how to install the necessary package, 'youtube_transcript_api,' how to retrieve the transcript of a specified video in different languages, and how to save the transcript to a text file.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1376",
-          "source_text": "we had been working on the casting for quite a while including indigenous people",
-          "source_start": 1376.9099999999999,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1104",
+          "source_text": "De Niro and I had this idea for a long time",
+          "source_start": 1104.48,
           "match_text": "In a surprising twist, the video also provides a tutorial on how to extract the transcript of a YouTube video using Python code. The video explains how to install the necessary package, \"youtube_transcript_api,\" how to retrieve the transcript of a specified video in different languages, and how to save the transcript to a text file. It concludes with an example of running the code and",
           "match_start": 1454,
-          "source_index": 22500
+          "source_index": 18054
         },
         {
           "fact": "It concludes with an example of running the code and demonstrating the extracted transcript.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=8",
-          "source_text": "we were all out in LA and he introduced me to Paul Schrader Schrader wrote Taxi Driver",
-          "source_start": 8.6395,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1286",
+          "source_text": "we got it to a point where we said let's sit down and read this thing",
+          "source_start": 1286.22,
           "match_text": "It concludes with an example of running the code and demonstrating the extracted transcript.",
           "match_start": 1789,
-          "source_index": 241
+          "source_index": 20870
         },
         {
           "fact": "This revealing look into Scorsese's creative process and the unexpected coding tutorial offers a unique blend of film and tech insight.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1229",
-          "source_text": "I was making kundun for example on the Dalai Lama all of these things and finally by around 2006 2007 I was able to put the script together",
-          "source_start": 1229.79,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=25",
+          "source_text": "when I read the script Brian gave it to me he said you know I can't I want to do it I can't do it but maybe you should do it",
+          "source_start": 25.619500000000002,
           "match_text": "This revealing look into Scorsese's creative process and the unexpected coding tutorial offers a unique blend of film and tech insight,",
           "match_start": 1883,
-          "source_index": 19969
+          "source_index": 485
         },
         {
           "fact": "Providing film enthusiasts, aspiring filmmakers, and tech enthusiasts alike a fascinating glimpse into the mind of a cinematic genius and the intricacies of Python coding.",
           "check": null,
-          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1254",
-          "source_text": "The locations the people the scenes themselves what the Japanese actors I mean it was really a kind of spiritual journey.",
-          "source_start": 1254.24,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1394",
+          "source_text": "I was struck by the uh a whole Visage the face and her intelligence one could see that there's a lot going on in her face but her not doing very much which is perfect for film acting",
+          "source_start": 1394.6999999999998,
           "match_text": "film enthusiasts, aspiring filmmakers, and tech enthusiasts alike a fascinating glimpse into the mind of a cinematic genius and the intricacies of Python coding.",
           "match_start": 2029,
-          "source_index": 20348
+          "source_index": 22749
+        },
+        {
+          "fact": "In a captivating video, the legendary Martin Scorsese delves into the depths of his filmmaking genius...",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=8",
+          "source_text": "we were all out in LA and he introduced me to Paul Schrader Schrader wrote Taxi Driver Travis comes from his vision but more psyche I connected with it through dostoevsky's Notes from Underground it was like enlightening you know",
+          "source_start": 8.6395,
+          "match_text": "In a captivating video, the legendary Martin Scorsese delves into the depths of his filmmaking genius, o",
+          "match_start": 131,
+          "source_index": 241
+        },
+        {
+          "fact": "including 'Taxi Driver,' 'Gangs of New York,' 'Goodfellas,' 'The Departed,' 'Raging Bull,' 'The Irishman,' 'Silence,' and 'Killers of the Flower Moon.'",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=353",
+          "source_text": "Goodfellas was made 18 years after mean streets.",
+          "source_start": 353.88,
+          "match_text": "By: The Dispatch\n\nIn a captivating video, the legendary Martin Scorsese delves into the depths of his filmmaking genius, offering an intimate exploration of his iconic works, including \"Taxi Driver,\" \"Gangs of New York,\" \"Goodfellas,\" \"The Departed,\" \"Raging Bull,\" \"The Irishman,\" \"Silence,\" and \"Killers of the Flower Moon.\"",
+          "match_start": 113,
+          "source_index": 5824
+        },
+        {
+          "fact": "drawing from a wide range of influences, personal experiences, and literary works.",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=25",
+          "source_text": "when I read the script Brian gave it to me he said you know I can't I want to do it I can't do it but maybe you should do it but I didn't have enough cachet as they say at that time to make the picture but then they saw the rough cut of Mean Streets and they changed their mind especially when they saw De Niro in it",
+          "source_start": 25.619500000000002,
+          "match_text": "drawing from a wide range of influences, personal experiences, and literary works.",
+          "match_start": 531,
+          "source_index": 485
+        },
+        {
+          "fact": "particularly with acclaimed actors like Robert De Niro, Leonardo DiCaprio, Joe Pesci, and Jack Nicholson.",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=47",
+          "source_text": "De Niro in it",
+          "source_start": 47.399,
+          "match_text": "particularly with acclaimed actors like Robert De Niro, Leonardo DiCaprio, Joe Pesci, and Jack Nicholson.",
+          "match_start": 847,
+          "source_index": 788
+        },
+        {
+          "fact": "highlighting the use of CGI and youthification in 'The Irishman.'",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1118",
+          "source_text": "we were talking about this idea of uh youthification and Pablo Herman of ilm was with us doing CGI or background material for us in Taiwan where we're doing silence and he came up and he said I think I can do it",
+          "source_start": 1118.94,
+          "match_text": "Scorsese further explores the realm of technology and special effects, highlighting the use of CGI and youthification in \"The Irishman.\"",
+          "match_start": 1096,
+          "source_index": 18384
+        },
+        {
+          "fact": "These innovations contribute to the immersive storytelling experience...",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=17",
+          "source_text": "Taxi Driver",
+          "source_start": 17.279,
+          "match_text": "These innovations contribute to the immersive storytelling experience, p",
+          "match_start": 1233,
+          "source_index": 316
+        },
+        {
+          "fact": "Throughout the video, Scorsese emphasizes the significance of authenticity and capturing the essence of different time periods and cultures.",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=61",
+          "source_text": "we wanted to make it so badly nobody would make it",
+          "source_start": 61.32,
+          "match_text": "Throughout the video, Scorsese emphasizes the significance of authenticity and capturing the essence of different time periods and cultures.",
+          "match_start": 1370,
+          "source_index": 1157
+        },
+        {
+          "fact": "In a surprising twist, the video also offers a step-by-step guide on how to automatically extract the transcript of a YouTube video using Python code.",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1104",
+          "source_text": "De Niro and I had this idea for a long time",
+          "source_start": 1104.48,
+          "match_text": "In a surprising twist, the video also offers a step-by-step guide on how to automatically extract the transcript of a YouTube video using Python code.",
+          "match_start": 1667,
+          "source_index": 18054
+        },
+        {
+          "fact": "Scorsese's passion for film seamlessly melds with the world of technology...",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=1229",
+          "source_text": "I was making kundun for example on the Dalai Lama all of these things and finally by around 2006 2007 I was able to put the script together",
+          "source_start": 1229.79,
+          "match_text": "Scorsese's passion for film seamlessly melds with the world of technology as",
+          "match_start": 1818,
+          "source_index": 19969
+        },
+        {
+          "fact": "Scorsese's contributions to the world of cinema continue to inspire and captivate audiences worldwide.",
+          "check": null,
+          "source": "https://www.youtube.com/watch?v=8szAkDLWp-M#t=91",
+          "source_text": "I felt that when he made that phone call it was so painful we shouldn't witness it so the camera should track away but not pan away it should move completely to a hallway and in the hallway you think somebody's coming but nobody's going to come nothing's going to happen we're all alone but we don't want to experience the depth of his pain at that point and at the same time there's a sense of anxiety on the viewer what's going to happen in the hallway well apparently nothing that was the first shot it came up by so that's the style",
+          "source_start": 91.86,
+          "match_text": "Scorsese's contributions to the world of cinema continue to inspire and captivate audiences worldwide.",
+          "match_start": 2247,
+          "source_index": 1642
         }
       ]
     },
